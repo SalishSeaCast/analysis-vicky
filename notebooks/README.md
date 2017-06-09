@@ -41,6 +41,10 @@ Descriptions under the links below are from the first cell of the notebooks
     **Baynes Sound**  
     **May 30, 2017**  
 
+* ##[New-coordinates.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/New-coordinates.ipynb)  
+    
+    New coordinates for tide points for Baynes Sound 2 and Haro Strait 1  
+
 * ##[Wind_wth_coastline-May42017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Wind_wth_coastline-May42017.ipynb)  
     
     **Wind with Coastline**  
@@ -66,6 +70,8 @@ Descriptions under the links below are from the first cell of the notebooks
       
 
 
+* ##[Recreating-figure-in-netCDF.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Recreating-figure-in-netCDF.ipynb)  
+    
 * ##[Collapsing-things-in-netCDF4.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Collapsing-things-in-netCDF4.ipynb)  
     
     **Collapsing Things in netCDF4**  
