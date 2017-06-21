@@ -6,6 +6,10 @@ The links below are to static renderings of the notebooks via
 Descriptions under the links below are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
+* ##[Finding-holes.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Finding-holes.ipynb)  
+    
+    Trying to find holes in test runs of Haro Strait 1  
+
 * ##[Collapsing-things.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Collapsing-things.ipynb)  
     
     **Collapsing things**  
@@ -19,6 +23,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **SalishSeaLake June**  
 
+* ##[Untitled.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Untitled.ipynb)  
+    
 * ##[SalishSeaLake.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake.ipynb)  
     
     **Salish Sea Lake**  
@@ -57,6 +63,10 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[Build-use-matrix.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Build-use-matrix.ipynb)  
     
+* ##[1_abort.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/1_abort.ipynb)  
+    
+    Abort file visualizations  
+
 * ##[Maxing-over-z-and-t.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Maxing-over-z-and-t.ipynb)  
     
     **Maxing over $z$ and $t$**  
@@ -70,12 +80,20 @@ Descriptions under the links below are from the first cell of the notebooks
       
 
 
+* ##[SalishSeaLakeSummary.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLakeSummary.ipynb)  
+    
+    A summary of tests done so far for Salish Sea Lake  
+
 * ##[Recreating-figure-in-netCDF.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Recreating-figure-in-netCDF.ipynb)  
     
 * ##[Collapsing-things-in-netCDF4.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Collapsing-things-in-netCDF4.ipynb)  
     
     **Collapsing Things in netCDF4**  
     **May 19, 2017**  
+
+* ##[runoff-plots.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/runoff-plots.ipynb)  
+    
+    Plots from abort and init files from runoff test of Haro Strait 1  
 
 * ##[VAT25-27-26-28.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/VAT25-27-26-28.ipynb)  
     
@@ -90,6 +108,14 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **Tidal Heights in Nov-Dec, 2014**  
     **May 5, 2017**  
+
+* ##[abort_from_patch.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/abort_from_patch.ipynb)  
+    
+    Looking at the output.abort files from running with patch  
+
+* ##[changing-agrif.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/changing-agrif.ipynb)  
+    
+    Plots from abort and init files from changing 1_namelist.agrif test of Haro Strait 1  
 
 * ##[Recreating-figure.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Recreating-figure.ipynb)  
     
@@ -110,6 +136,10 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **Checking VATs**  
     **May 18, 2017**  
+
+* ##[mar_abort.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/mar_abort.ipynb)  
+    
+    March HS1  
 
 * ##[Checkers-and-Chess.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Checkers-and-Chess.ipynb)  
     
