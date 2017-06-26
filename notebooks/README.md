@@ -6,6 +6,10 @@ The links below are to static renderings of the notebooks via
 Descriptions under the links below are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
+* ##[RevisedTSplots.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/RevisedTSplots.ipynb)  
+    
+    Revised T-S plots for 2015  
+
 * ##[Finding-holes.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Finding-holes.ipynb)  
     
     Trying to find holes in test runs of Haro Strait 1  
