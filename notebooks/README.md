@@ -95,6 +95,10 @@ Descriptions under the links below are from the first cell of the notebooks
     **Collapsing Things in netCDF4**  
     **May 19, 2017**  
 
+* ##[T-S-function.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/T-S-function.ipynb)  
+    
+    Function for T-S plot with improved high and low tides markers.   
+
 * ##[runoff-plots.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/runoff-plots.ipynb)  
     
     Plots from abort and init files from runoff test of Haro Strait 1  
