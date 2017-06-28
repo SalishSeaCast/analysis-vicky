@@ -67,6 +67,10 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[Build-use-matrix.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Build-use-matrix.ipynb)  
     
+* ##[DeepBay-June.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/DeepBay-June.ipynb)  
+    
+    Looking at T-S plots for Deep Bay in June  
+
 * ##[1_abort.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/1_abort.ipynb)  
     
     Abort file visualizations  
@@ -162,6 +166,10 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **Wind Speed Vs Wind Stress**  
     **May 23, 2017**  
+
+* ##[CitizenDataVsNowcast.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/CitizenDataVsNowcast.ipynb)  
+    
+    Comparison of Citizen Data and Nowcast  
 
 * ##[at-4th.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/at-4th.ipynb)  
     
