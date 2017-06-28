@@ -27,6 +27,14 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **SalishSeaLake June**  
 
+* ##[Nitrate-Diatom-plots-for-DeepBay.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Nitrate-Diatom-plots-for-DeepBay.ipynb)  
+    
+    Some Nitrate-Diatom plots for Deep Bay  
+
+* ##[Oscillation-Index.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Oscillation-Index.ipynb)  
+    
+    Looking at oscillation index for 2015 at Deep Bay  
+
 * ##[Untitled.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Untitled.ipynb)  
     
 * ##[SalishSeaLake.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake.ipynb)  
