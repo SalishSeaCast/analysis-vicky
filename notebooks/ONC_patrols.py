@@ -74,13 +74,12 @@ def load_patrol_csv(csvfilename):
     columns = find_column_names(csvfilename, data_line)
     data = pd.read_csv(csvfilename, header=None, skiprows=data_line,
                        names=columns, parse_dates=[0], low_memory=False)
-    #data = data.convert_objects(convert_numeric=True)
-    #data['time'] = pd.to_datetime(data.ix[:,0],errors='coerce')
-    data['Time UTC (yyyy-mm-ddThh:mm:ss.fffZ)'] = pd.to_datetime(data.ix[:,0],errors='coerce')
-    #data.rename(columns={'Time UTC (yyyy-mm-ddThh:mm:ss.fffZ)': 'time'},
-                #inplace=True)
-    data['day'] = [datetime.datetime(d.year, d.month, d.day)
-                   for d in data['Time UTC (yyyy-mm-ddThh:mm:ss.fffZ)']]
+    data.rename(columns={'Time UTC (yyyy-mm-ddThh:mm:ss.fffZ)': 'time'},
+                inplace=True)
+    for col in data.keys():
+        data[col] = pd.to_numeric(data[col], errors='coerce')
+    data['day'] = pd.to_datetime(data['time'], errors='coerce')
+
     return data
 
 
@@ -223,7 +222,10 @@ def retrieve_nowcast_data(lon, lat, date, obs_depth, field, grid_B, mesh_mask):
     grid_h = results_dataset('1h', 'grid_T', date)
     model_d = grid_d.variables[field][0, :, j, i]
     model_h = grid_h.variables[field][:, :, j, i]
-    gdep = mesh_mask.variables['gdept_0'][0, :, j, i]
+    if 'gdept' in mesh_mask.variables.keys():
+        gdep = mesh_mask.variables['gdept'][0, :, j, i]
+    else:
+        gdep = mesh_mask.variables['gdept_0'][0, :, j, i]
     # masking
     tmask = mesh_mask.variables['tmask'][:, :, j, i]
     tmask = 1 - tmask + np.zeros(model_h.shape)
