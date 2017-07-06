@@ -445,13 +445,12 @@ def early_model_data(date, j, i, period, grid, var, nowcast_dir):
 
     return var_model
 
-
+#@profile
 def interpolate_depth(variable, depth_array, depth_new):
     """ interpolates a variable depth profile field to desire depth.
     Ideally the variable is already masked but this method masks invalid data.
     """
     # mask
-    print(type(depth_new))
     var_mask = np.ma.masked_invalid(variable)
     d_mask = np.ma.masked_invalid(depth_array)
     f = interp.interp1d(d_mask[~d_mask.mask], 

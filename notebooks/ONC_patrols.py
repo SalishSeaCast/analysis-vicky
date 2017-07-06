@@ -77,8 +77,10 @@ def load_patrol_csv(csvfilename):
     data.rename(columns={'Time UTC (yyyy-mm-ddThh:mm:ss.fffZ)': 'time'},
                 inplace=True)
     for col in data.keys():
-        data[col] = pd.to_numeric(data[col], errors='coerce')
-    data['day'] = pd.to_datetime(data['time'], errors='coerce')
+        if col is not 'time':
+            data[col] = pd.to_numeric(data[col], errors='coerce')
+    data['day'] = [datetime.datetime(d.year, d.month, d.day)
+                   for d in data.time]
 
     return data
 
@@ -412,7 +414,7 @@ def compare_patrol_model_obs(data, names, grid_B, mesh_mask,
     for d in days:
         daily = data_days.get_group(d).dropna()
         daily_casts = daily.groupby('Cast')
-        fig, axs = plt.subplots(1, 3, figsize=(15, 3))
+        #fig, axs = plt.subplots(1, 3, figsize=(15, 3))
         # Loop through casts in a day
         for c in daily_casts.groups:
             cast = daily_casts.get_group(c)
@@ -421,25 +423,25 @@ def compare_patrol_model_obs(data, names, grid_B, mesh_mask,
             try:
                 model_d_interp, model_max, model_min = retrieve_nowcast_data(
                     lon, lat, date, obs_depth, field, grid_B, mesh_mask)
-                mesh = plot_scatter_comparison(axs[0], cast, model_d_interp,
-                                               model_max, model_min,
-                                               var_name, var_lims, depth_lims)
-                lo, lm = plot_profile_comparison(axs[1], cast,
-                                                 model_d_interp, var_name,
-                                                 var_lims, depth_lims)
-                plot_map(axs[2], cast, grid_B, xlims, ylims)
+                #mesh = plot_scatter_comparison(axs[0], cast, model_d_interp,
+                 #                              model_max, model_min,
+                                              #var_name, var_lims, depth_lims)
+                #lo, lm = plot_profile_comparison(axs[1], cast,
+                 #                                model_d_interp, var_name,
+                                                #var_lims, depth_lims)
+                #plot_map(axs[2], cast, grid_B, xlims, ylims)
             except IndexError:
                 print(
                     'No Model Point for {} {}'.format(
                         cast['Longitude Corrected (deg)'].mean(),
                         cast['Latitude Corrected (deg)'].mean()))
         # Label colorbar, etc
-        try:
-            cbar = plt.colorbar(mesh, ax=axs[0])
-            cbar.set_label('Depth (m)')
-            ticks = [1, 10, 25, 50, 100, 200, 400]
-            cbar.set_ticks(ticks)
-            cbar.set_ticklabels(ticks)
-            axs[1].legend([lo, lm], ['Observed', 'Modelled'])
-        except UnboundLocalError:
-            print('No plot for {}'.format(d))
+        #try:
+            #cbar = plt.colorbar(mesh, ax=axs[0])
+            #cbar.set_label('Depth (m)')
+            #ticks = [1, 10, 25, 50, 100, 200, 400]
+            #cbar.set_ticks(ticks)
+            #cbar.set_ticklabels(ticks)
+            #axs[1].legend([lo, lm], ['Observed', 'Modelled'])
+        #except UnboundLocalError:
+            #print('No plot for {}'.format(d))
