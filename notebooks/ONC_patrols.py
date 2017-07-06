@@ -17,6 +17,7 @@ from salishsea_tools import tidetools, viz_tools, geo_tools
 
 
 NOWCAST_PATH = '/results/SalishSea/nowcast/'
+HINDCAST_PATH= '/results/SalishSea/hindcast/'
 
 
 def find_data_line(csvfilename):
@@ -188,6 +189,25 @@ def results_dataset(period, grid, date):
     fname = 'SalishSea_{}_{}_{}_{}.nc'.format(period, datestr, datestr, grid)
     return nc.Dataset(os.path.join(NOWCAST_PATH, sub_dir, fname))
 
+def results_dataset2(period, grid, date):
+    """Retrieve nowcast data set results
+
+    :arg period: averaging period of results, e.g. '1h' or '1d'
+    :type period: string
+
+    :arg grid: grid type, e.g. 'grid_T' or 'grid_U'
+    :type grid: string
+
+    :arg date: date of results
+    :type date: datetime
+
+    :returns: netCDF4 handle
+    """
+    sub_dir = date.strftime('%d%b%y').lower()
+    datestr = date.strftime('%Y%m%d')
+    fname = 'SalishSea_{}_{}_{}_{}.nc'.format(period, datestr, datestr, grid)
+    return nc.Dataset(os.path.join(HINDCAST_PATH, sub_dir, fname))
+
 
 def retrieve_nowcast_data(lon, lat, date, obs_depth, field, grid_B, mesh_mask):
     """Gather nowcast field daily mean, min and max at lat, lon on date,
@@ -248,8 +268,68 @@ def retrieve_nowcast_data(lon, lat, date, obs_depth, field, grid_B, mesh_mask):
 
     return model_d_interp, model_max, model_min
 
+def retrieve_hindcast_data(lon, lat, date, obs_depth, field, grid_B, mesh_mask):
+    """Gather nowcast field daily mean, min and max at lat, lon on date,
+    interpolated to obs_depth.
 
-def plot_profile_comparison(ax, cast, model_d_interp, var_name,
+    :arg lon: longitude point
+    :type lon: real number
+
+    :arg lat: latitude point
+    :type lat: real number
+
+    :arg date: simulation date
+    :type date: datetime
+
+    :arg obs_depth: array of depths to be interpolated to
+    :type obs_depth: numpy array
+
+    :arg field: name of variable to load, e.g 'vosaline' or 'votemper'
+    :type field: string
+
+    :arg grid_B: model bathymetry
+    :type grid_B: netCDF4 object
+
+    :arg mesh_mask: model mesh mask
+    :type mesh_mask: netCDF4 object
+
+    :returns: model_d_interp, model_max, model_min - numpy arrays
+    """
+    # look up model grid point
+    bathy, lons, lats = tidetools.get_bathy_data(grid_B)
+    j, i = geo_tools.find_closest_model_point(lon, lat, lons, lats, land_mask = bathy.mask)
+    # loading
+    grid_d = results_dataset2('1d', 'grid_T', date)
+    grid_h = results_dataset2('1h', 'grid_T', date)
+    model_d = grid_d.variables[field][0, :, j, i]
+    model_h = grid_h.variables[field][:, :, j, i]
+    if 'gdept' in mesh_mask.variables.keys():
+        gdep = mesh_mask.variables['gdept'][0, :, j, i]
+    else:
+        gdep = mesh_mask.variables['gdept_0'][0, :, j, i]
+    # masking
+    tmask = mesh_mask.variables['tmask'][:, :, j, i]
+    tmask = 1 - tmask + np.zeros(model_h.shape)
+    model_d = np.ma.array(model_d, mask=tmask[0, :])
+    gdep_mask = np.ma.array(gdep, mask=tmask[0, :])
+    model_h = np.ma.array(model_h, mask=tmask)
+    # interpolate to observed depth
+    model_d_interp = comparisons.interpolate_depth(model_d, gdep_mask,
+                                                   obs_depth)
+    model_h_interp = np.zeros((model_h.shape[0], len(obs_depth)))
+    for t in np.arange(model_h.shape[0]):
+        model_h_interp[t, :] = comparisons.interpolate_depth(model_h[t, :],
+                                                             gdep_mask,
+                                                             obs_depth)
+    # daily max and min
+    model_max = np.max(model_h_interp, axis=0)
+    model_min = np.min(model_h_interp, axis=0)
+
+    return model_d_interp, model_max, model_min
+
+
+def plot_profile_comparison(ax, cast, model_d_interp, 
+                            model_d_interp2, var_name,
                             var_lims, depth_lims):
     """Plot cast depth profile comparison between model and observations
 
@@ -275,11 +355,13 @@ def plot_profile_comparison(ax, cast, model_d_interp, var_name,
     :returns: lo, lm - scatter plot handles for observations and model.
     Can be used for adding a legend later.
     """
-
+    size = 25
     lo = ax.scatter(cast[var_name], cast['Depth Corrected (m)'],
-                    c='g', label='Observed')
-    lm = ax.scatter(model_d_interp, cast['Depth Corrected (m)'],
-                    c='b', label='Modelled')
+                    c='g', label='Observed', s = size, alpha = 0.7)
+    lold = ax.scatter(model_d_interp, cast['Depth Corrected (m)'],
+                    c='b', label='Nowcast', s = size, alpha = 0.7)
+    lnew = ax.scatter(model_d_interp2, cast['Depth Corrected (m)'],
+                    c='r', label='Hindcast', s = size, alpha = 0.7)
 
     ax.set_ylim([depth_lims[-1], depth_lims[0]])
     ax.set_ylabel('Depth [m]')
@@ -289,7 +371,7 @@ def plot_profile_comparison(ax, cast, model_d_interp, var_name,
 
     ax.set_title(cast.day.min().strftime('%Y-%m-%d'))
 
-    return lo, lm
+    return lo, lold, lnew
 
 
 def plot_map(ax, cast, grid_B, xlims, ylims):
@@ -359,7 +441,7 @@ def plot_scatter_comparison(ax, cast, model_d_interp, model_max,
     mesh = ax.scatter(cast[var_name], model_d_interp,
                       c=cast['Depth Corrected (m)'], cmap='Spectral',
                       norm=mcolors.LogNorm(),
-                      vmin=depth_lims[0]+.5, vmax=depth_lims[1])
+                      vmin=depth_lims[0]+.5, vmax=depth_lims[1], s=25, alpha=0.7)
     ax.plot(var_lims, var_lims, 'r')
     ax.set_ylim(var_lims)
     ax.set_xlim(var_lims)
@@ -370,6 +452,7 @@ def plot_scatter_comparison(ax, cast, model_d_interp, model_max,
 
 
 def compare_patrol_model_obs(data, names, grid_B, mesh_mask,
+                             grid_B_new, mesh_mask_new,
                              var_lims=[29, 34], depth_lims=[0, 160],
                              xlims=[-124, -123], ylims=[48, 49]):
     """ Compare model and observations for all ctd casts in data.
@@ -414,7 +497,7 @@ def compare_patrol_model_obs(data, names, grid_B, mesh_mask,
     for d in days:
         daily = data_days.get_group(d).dropna()
         daily_casts = daily.groupby('Cast')
-        #fig, axs = plt.subplots(1, 3, figsize=(15, 3))
+        fig, axs = plt.subplots(2, 2, figsize=(15, 15))
         # Loop through casts in a day
         for c in daily_casts.groups:
             cast = daily_casts.get_group(c)
@@ -423,25 +506,34 @@ def compare_patrol_model_obs(data, names, grid_B, mesh_mask,
             try:
                 model_d_interp, model_max, model_min = retrieve_nowcast_data(
                     lon, lat, date, obs_depth, field, grid_B, mesh_mask)
-                #mesh = plot_scatter_comparison(axs[0], cast, model_d_interp,
-                 #                              model_max, model_min,
-                                              #var_name, var_lims, depth_lims)
-                #lo, lm = plot_profile_comparison(axs[1], cast,
-                 #                                model_d_interp, var_name,
-                                                #var_lims, depth_lims)
-                #plot_map(axs[2], cast, grid_B, xlims, ylims)
+                model_d_interp2, model_max2, model_min2 = retrieve_hindcast_data(
+                    lon, lat, date, obs_depth, field, grid_B_new, mesh_mask_new)
+                mesh1 = plot_scatter_comparison(axs[0,0], cast, model_d_interp,
+                                               model_max, model_min,
+                                              var_name, var_lims, depth_lims)
+                mesh2 = plot_scatter_comparison(axs[1,0], cast, model_d_interp2,
+                                               model_max2, model_min2,
+                                              var_name, var_lims, depth_lims)
+                lo, lold, lnew = plot_profile_comparison(axs[0,1], cast,
+                                                 model_d_interp, model_d_interp2, var_name,
+                                                var_lims, depth_lims)
+                plot_map(axs[1,1], cast, grid_B, xlims, ylims)
             except IndexError:
                 print(
                     'No Model Point for {} {}'.format(
                         cast['Longitude Corrected (deg)'].mean(),
                         cast['Latitude Corrected (deg)'].mean()))
         # Label colorbar, etc
-        #try:
-            #cbar = plt.colorbar(mesh, ax=axs[0])
-            #cbar.set_label('Depth (m)')
-            #ticks = [1, 10, 25, 50, 100, 200, 400]
-            #cbar.set_ticks(ticks)
-            #cbar.set_ticklabels(ticks)
-            #axs[1].legend([lo, lm], ['Observed', 'Modelled'])
-        #except UnboundLocalError:
-            #print('No plot for {}'.format(d))
+        try:
+            cbar1 = plt.colorbar(mesh1, ax=axs[0,0])
+            cbar1.set_label('Depth (m)')
+            cbar2 = plt.colorbar(mesh2, ax=axs[1,0])
+            cbar2.set_label('Depth (m)')
+            ticks = [1, 10, 25, 50, 100, 200, 400]
+            cbar1.set_ticks(ticks)
+            cbar1.set_ticklabels(ticks)
+            cbar2.set_ticks(ticks)
+            cbar2.set_ticklabels(ticks)
+            axs[0,1].legend([lo, lold, lnew], ['Observed', 'Nowcast', 'Hindcast'])
+        except UnboundLocalError:
+            print('No plot for {}'.format(d))

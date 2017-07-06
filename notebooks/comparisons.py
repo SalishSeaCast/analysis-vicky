@@ -445,7 +445,7 @@ def early_model_data(date, j, i, period, grid, var, nowcast_dir):
 
     return var_model
 
-#@profile
+
 def interpolate_depth(variable, depth_array, depth_new):
     """ interpolates a variable depth profile field to desire depth.
     Ideally the variable is already masked but this method masks invalid data.
