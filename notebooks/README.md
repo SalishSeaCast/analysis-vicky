@@ -102,6 +102,10 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[Recreating-figure-in-netCDF.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Recreating-figure-in-netCDF.ipynb)  
     
+* ##[ONC_Patrols.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ONC_Patrols.ipynb)  
+    
+    Look at ONC patrol data  
+
 * ##[Collapsing-things-in-netCDF4.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Collapsing-things-in-netCDF4.ipynb)  
     
     **Collapsing Things in netCDF4**  
@@ -179,6 +183,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Comparison of Citizen Data and Nowcast  
 
+* ##[Updating.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Updating.ipynb)  
+    
 * ##[at-4th.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/at-4th.ipynb)  
     
 
