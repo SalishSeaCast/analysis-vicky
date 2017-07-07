@@ -546,7 +546,7 @@ def compare_patrol_model_obs(data, names, grid_B, mesh_mask,
     for d in days:
         daily = data_days.get_group(d).dropna()
         daily_casts = daily.groupby('Cast')
-        fig, axs = plt.subplots(2, 2, figsize=(15, 15))
+        fig, axs = plt.subplots(1, 4, figsize=(25, 6))
         # Loop through casts in a day
         for c in daily_casts.groups:
             cast = daily_casts.get_group(c)
@@ -557,16 +557,16 @@ def compare_patrol_model_obs(data, names, grid_B, mesh_mask,
                     lon, lat, date, obs_depth, field, grid_B, mesh_mask)
                 model_d_interp2, model_max2, model_min2 = retrieve_hindcast_data(
                     lon, lat, date, obs_depth, field, grid_B_new, mesh_mask_new)
-                mesh1 = plot_scatter_comparison(axs[0,0], cast, model_d_interp,
+                mesh1 = plot_scatter_comparison(axs[0], cast, model_d_interp,
                                                model_max, model_min,
                                               var_name, var_lims, depth_lims)
-                mesh2 = plot_scatter_comparison2(axs[1,0], cast, model_d_interp2,
+                mesh2 = plot_scatter_comparison2(axs[1], cast, model_d_interp2,
                                                model_max2, model_min2,
                                               var_name, var_lims, depth_lims)
-                lo, lold, lnew = plot_profile_comparison(axs[0,1], cast,
+                lo, lold, lnew = plot_profile_comparison(axs[2], cast,
                                                  model_d_interp, model_d_interp2, var_name,
                                                 var_lims, depth_lims)
-                plot_map(axs[1,1], cast, grid_B, xlims, ylims)
+                plot_map(axs[3], cast, grid_B, xlims, ylims)
             except IndexError:
                 print(
                     'No Model Point for {} {}'.format(
@@ -574,15 +574,15 @@ def compare_patrol_model_obs(data, names, grid_B, mesh_mask,
                         cast['Latitude Corrected (deg)'].mean()))
         # Label colorbar, etc
         try:
-            cbar1 = plt.colorbar(mesh1, ax=axs[0,0])
+            cbar1 = plt.colorbar(mesh1, ax=axs[0])
             cbar1.set_label('Depth (m)')
-            cbar2 = plt.colorbar(mesh2, ax=axs[1,0])
+            cbar2 = plt.colorbar(mesh2, ax=axs[1])
             cbar2.set_label('Depth (m)')
             ticks = [1, 10, 25, 50, 100, 200, 400]
             cbar1.set_ticks(ticks)
             cbar1.set_ticklabels(ticks)
             cbar2.set_ticks(ticks)
             cbar2.set_ticklabels(ticks)
-            axs[0,1].legend([lo, lold, lnew], ['Observed', 'Nowcast', 'Hindcast'])
+            axs[2].legend([lo, lold, lnew], ['Observed', 'Nowcast', 'Hindcast'])
         except UnboundLocalError:
             print('No plot for {}'.format(d))
