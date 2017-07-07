@@ -446,7 +446,56 @@ def plot_scatter_comparison(ax, cast, model_d_interp, model_max,
     ax.set_ylim(var_lims)
     ax.set_xlim(var_lims)
     ax.set_xlabel('Observed {}'.format(var_name))
-    ax.set_ylabel('Modelled {}'.format(var_name))
+    ax.set_ylabel('Nowcast {}'.format(var_name))
+    ax.set_title(cast.day.min().strftime('%Y-%m-%d'))
+    return mesh
+
+def plot_scatter_comparison2(ax, cast, model_d_interp, model_max,
+                            model_min, var_name, var_lims, depth_lims):
+    """Scatter plot to compare observed and model daily average values.
+    Plots model error bars based on model daily max/min.
+    Points are coloured by depth
+
+    :arg ax: axis for plotting
+    :type ax: axis object
+
+    :arg cast: the observed cast for comaprison
+    :type cast: pandas DataFrame-like object
+
+    :arg model_d_interp: model values interpolated to observed depths
+    :type model_d_interp: numpy array
+
+    :arg model_max: model daily maximum interpolated to observed depths
+    :type model_max: numpy array
+
+    :arg model_min: model daily minimum interpolated to observed depths
+    :type model_min: numpy array
+
+    :arg var_name: observed variable name,
+    eg 'Practical Salinity Corrected (psu)'
+    :type var_name: string
+
+    :arg var_lims: min/max variable values, eg [29,34]
+    :type var_lims: 2-tuple
+
+    :arg depth_lims: min/max depth values, eg [0,150]
+    :type depth_lims: 2-tuple
+
+    :returns: mesh - scatter plot depth colors.
+    Can be used for adding a colorbar.
+    """
+    yerr = [model_d_interp-model_min, model_max-model_d_interp]
+    ax.errorbar(cast[var_name], model_d_interp, yerr=yerr, fmt='k:',
+                ecolor='gray', marker='', zorder=0)
+    mesh = ax.scatter(cast[var_name], model_d_interp,
+                      c=cast['Depth Corrected (m)'], cmap='Spectral',
+                      norm=mcolors.LogNorm(),
+                      vmin=depth_lims[0]+.5, vmax=depth_lims[1], s=25, alpha=0.7)
+    ax.plot(var_lims, var_lims, 'r')
+    ax.set_ylim(var_lims)
+    ax.set_xlim(var_lims)
+    ax.set_xlabel('Observed {}'.format(var_name))
+    ax.set_ylabel('Hindcast {}'.format(var_name))
     ax.set_title(cast.day.min().strftime('%Y-%m-%d'))
     return mesh
 
@@ -511,7 +560,7 @@ def compare_patrol_model_obs(data, names, grid_B, mesh_mask,
                 mesh1 = plot_scatter_comparison(axs[0,0], cast, model_d_interp,
                                                model_max, model_min,
                                               var_name, var_lims, depth_lims)
-                mesh2 = plot_scatter_comparison(axs[1,0], cast, model_d_interp2,
+                mesh2 = plot_scatter_comparison2(axs[1,0], cast, model_d_interp2,
                                                model_max2, model_min2,
                                               var_name, var_lims, depth_lims)
                 lo, lold, lnew = plot_profile_comparison(axs[0,1], cast,
