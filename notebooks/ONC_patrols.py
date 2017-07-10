@@ -13,7 +13,7 @@ import matplotlib.colors as mcolors
 
 import comparisons
 
-from salishsea_tools import tidetools, viz_tools, geo_tools
+from salishsea_tools import tidetools, viz_tools, geo_tools, gsw_calls
 
 
 NOWCAST_PATH = '/results/SalishSea/nowcast/'
@@ -244,6 +244,18 @@ def retrieve_nowcast_data(lon, lat, date, obs_depth, field, grid_B, mesh_mask):
     grid_h = results_dataset('1h', 'grid_T', date)
     model_d = grid_d.variables[field][0, :, j, i]
     model_h = grid_h.variables[field][:, :, j, i]
+    if field == 'vosaline':
+        model_d = gsw_calls.generic_gsw_caller('gsw_SP_from_SR.m', [model_d])
+        model_h = gsw_calls.generic_gsw_caller('gsw_SP_from_SR.m', [model_h])
+    elif field == 'votemper':
+        abs_sal = grid_d.variables['vosaline'][:,:,j,i]
+        model_d = gsw_calls.generic_gsw_caller('gsw_pt_from_CT.m', [abs_sal[0,:], model_d])
+        x, y = model_h.shape
+        ones = np.ones([x,y])
+        abs_sal2 = abs_sal * ones
+        model_h = gsw_calls.generic_gsw_caller('gsw_pt_from_CT.m', [abs_sal2, model_h])
+    else:
+        print('I only do salinity and temperature. Sorry!')
     if 'gdept' in mesh_mask.variables.keys():
         gdep = mesh_mask.variables['gdept'][0, :, j, i]
     else:
