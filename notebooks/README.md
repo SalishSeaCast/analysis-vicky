@@ -14,6 +14,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Trying to find holes in test runs of Haro Strait 1  
 
+* ##[BaynesSoundParticles-April.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/BaynesSoundParticles-April.ipynb)  
+    
 * ##[Collapsing-things.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Collapsing-things.ipynb)  
     
     **Collapsing things**  
@@ -54,6 +56,8 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[1_bathy.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/1_bathy.ipynb)  
     
+* ##[BaynesSoundParticles-July.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/BaynesSoundParticles-July.ipynb)  
+    
 * ##[BaynesSound.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/BaynesSound.ipynb)  
     
     **Baynes Sound**  
@@ -73,12 +77,16 @@ Descriptions under the links below are from the first cell of the notebooks
     **Initial Strat Files for SalishSeaLake**  
     **May 17, 2017**  
 
+* ##[Recreating-figure-in-netCDF2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Recreating-figure-in-netCDF2.ipynb)  
+    
 * ##[Build-use-matrix.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Build-use-matrix.ipynb)  
     
 * ##[DeepBay-June.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/DeepBay-June.ipynb)  
     
     Looking at T-S plots for Deep Bay in June  
 
+* ##[CampbellRiverParticles.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/CampbellRiverParticles.ipynb)  
+    
 * ##[1_abort.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/1_abort.ipynb)  
     
     Abort file visualizations  
@@ -95,6 +103,10 @@ Descriptions under the links below are from the first cell of the notebooks
     **May 3, 2017**  
       
 
+
+* ##[DeepBayParticles.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/DeepBayParticles.ipynb)  
+    
+    Ariane is taking a vacation in Deep Bay.  
 
 * ##[SalishSeaLakeSummary.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLakeSummary.ipynb)  
     
@@ -128,6 +140,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **SalishSeaLake January**  
 
+* ##[Ariane-sandbox.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane-sandbox.ipynb)  
+    
 * ##[T-S-2015.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/T-S-2015.ipynb)  
     
     T-S plots for 2015.  
@@ -150,6 +164,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **Recreating figure**  
     **May 29, 2017**  
 
+* ##[BaynesSoundParticles-January.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/BaynesSoundParticles-January.ipynb)  
+    
 * ##[coordinate-and-bathy-for-salishsealake.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/coordinate-and-bathy-for-salishsealake.ipynb)  
     
     **Coordinates and Bathy for SalishSeaLake**  
@@ -160,6 +176,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **VAT25 vs VAT26**  
     **May 26, 2017**  
 
+* ##[Coarse_Fine_picture.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Coarse_Fine_picture.ipynb)  
+    
 * ##[checking-vats.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/checking-vats.ipynb)  
     
     **Checking VATs**  
@@ -179,6 +197,12 @@ Descriptions under the links below are from the first cell of the notebooks
     **Wind Speed Vs Wind Stress**  
     **May 23, 2017**  
 
+* ##[BaynesSoundParticles-October.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/BaynesSoundParticles-October.ipynb)  
+    
+* ##[DeepBayLocation.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/DeepBayLocation.ipynb)  
+    
+* ##[BaynesSoundParticles.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/BaynesSoundParticles.ipynb)  
+    
 * ##[CitizenDataVsNowcast.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/CitizenDataVsNowcast.ipynb)  
     
     Comparison of Citizen Data and Nowcast  
