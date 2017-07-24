@@ -15,6 +15,10 @@ Descriptions under the links below are from the first cell of the notebooks
     **Salish Sea Lake**  
     **May 12, 2017**  
 
+* ##[learning-animation.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/learning-animation.ipynb)  
+    
+* ##[density-animations.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/density-animations.ipynb)  
+    
 * ##[initial_strat_SalishSeaLake.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/initial_strat_SalishSeaLake.ipynb)  
     
     **Initial Strat Files for SalishSeaLake**  
@@ -38,6 +42,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **Wind Speed Vs Wind Stress**  
     **May 23, 2017**  
 
+* ##[sbcana-editing.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/sbcana-editing.ipynb)  
+    
 
 ##License
 
