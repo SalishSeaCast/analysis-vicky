@@ -6,36 +6,36 @@ The links below are to static renderings of the notebooks via
 Descriptions under the links below are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
-* ##[RevisedTSplots.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/RevisedTSplots.ipynb)  
+* ##[RevisedTSplots.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Hairballs//RevisedTSplots.ipynb)  
     
     Revised T-S plots for 2015  
 
-* ##[Nitrate-Diatom-plots-for-DeepBay.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Nitrate-Diatom-plots-for-DeepBay.ipynb)  
+* ##[Nitrate-Diatom-plots-for-DeepBay.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Hairballs//Nitrate-Diatom-plots-for-DeepBay.ipynb)  
     
     Some Nitrate-Diatom plots for Deep Bay  
 
-* ##[Oscillation-Index.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Oscillation-Index.ipynb)  
+* ##[Oscillation-Index.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Hairballs//Oscillation-Index.ipynb)  
     
     Looking at oscillation index for 2015 at Deep Bay  
 
-* ##[BaynesSound.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/BaynesSound.ipynb)  
+* ##[BaynesSound.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Hairballs//BaynesSound.ipynb)  
     
     **Baynes Sound**  
     **May 30, 2017**  
 
-* ##[DeepBay-June.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/DeepBay-June.ipynb)  
+* ##[DeepBay-June.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Hairballs//DeepBay-June.ipynb)  
     
     Looking at T-S plots for Deep Bay in June  
 
-* ##[T-S-function.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/T-S-function.ipynb)  
+* ##[T-S-function.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Hairballs//T-S-function.ipynb)  
     
     Function for T-S plot with improved high and low tides markers.   
 
-* ##[T-S-2015.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/T-S-2015.ipynb)  
+* ##[T-S-2015.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Hairballs//T-S-2015.ipynb)  
     
     T-S plots for 2015.  
 
-* ##[DeepBayLocation.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/DeepBayLocation.ipynb)  
+* ##[DeepBayLocation.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Hairballs//DeepBayLocation.ipynb)  
     
 
 ##License

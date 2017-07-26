@@ -6,15 +6,15 @@ The links below are to static renderings of the notebooks via
 Descriptions under the links below are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
-* ##[Recreating-figure-in-netCDF2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Recreating-figure-in-netCDF2.ipynb)  
+* ##[Recreating-figure-in-netCDF2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Veins//Recreating-figure-in-netCDF2.ipynb)  
     
-* ##[Recreating-figure-in-netCDF.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Recreating-figure-in-netCDF.ipynb)  
+* ##[Recreating-figure-in-netCDF.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Veins//Recreating-figure-in-netCDF.ipynb)  
     
-* ##[abort_from_patch.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/abort_from_patch.ipynb)  
+* ##[abort_from_patch.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Veins//abort_from_patch.ipynb)  
     
     Looking at the output.abort files from running with patch  
 
-* ##[Recreating-figure.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Recreating-figure.ipynb)  
+* ##[Recreating-figure.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Veins//Recreating-figure.ipynb)  
     
     **Recreating figure**  
     **May 29, 2017**  
