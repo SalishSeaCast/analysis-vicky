@@ -24,6 +24,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **Initial Strat Files for SalishSeaLake**  
     **May 17, 2017**  
 
+* ##[density-animations-complete.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/density-animations-complete.ipynb)  
+    
 * ##[SalishSeaLakeSummary.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLakeSummary.ipynb)  
     
     A summary of tests done so far for Salish Sea Lake  
@@ -42,6 +44,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **Wind Speed Vs Wind Stress**  
     **May 23, 2017**  
 
+* ##[Looking-at-one-density.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Looking-at-one-density.ipynb)  
+    
 * ##[sbcana-editing.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/sbcana-editing.ipynb)  
     
 
