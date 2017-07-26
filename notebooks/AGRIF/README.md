@@ -6,39 +6,39 @@ The links below are to static renderings of the notebooks via
 Descriptions under the links below are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
-* ##[Finding-holes.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Finding-holes.ipynb)  
+* ##[Finding-holes.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/AGRIF//Finding-holes.ipynb)  
     
     Trying to find holes in test runs of Haro Strait 1  
 
-* ##[Haro-Strait-AGRIF.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Haro-Strait-AGRIF.ipynb)  
+* ##[Haro-Strait-AGRIF.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/AGRIF//Haro-Strait-AGRIF.ipynb)  
     
     **Haro Strait AGRIF domain**  
 
-* ##[1_bathy.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/1_bathy.ipynb)  
+* ##[1_bathy.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/AGRIF//1_bathy.ipynb)  
     
-* ##[New-coordinates.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/New-coordinates.ipynb)  
+* ##[New-coordinates.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/AGRIF//New-coordinates.ipynb)  
     
     New coordinates for tide points for Baynes Sound 2 and Haro Strait 1  
 
-* ##[1_abort.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/1_abort.ipynb)  
+* ##[1_abort.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/AGRIF//1_abort.ipynb)  
     
     Abort file visualizations  
 
-* ##[runoff-plots.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/runoff-plots.ipynb)  
+* ##[runoff-plots.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/AGRIF//runoff-plots.ipynb)  
     
     Plots from abort and init files from runoff test of Haro Strait 1  
 
-* ##[changing-agrif.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/changing-agrif.ipynb)  
+* ##[changing-agrif.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/AGRIF//changing-agrif.ipynb)  
     
     Plots from abort and init files from changing 1_namelist.agrif test of Haro Strait 1  
 
-* ##[Coarse_Fine_picture.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Coarse_Fine_picture.ipynb)  
+* ##[Coarse_Fine_picture.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/AGRIF//Coarse_Fine_picture.ipynb)  
     
-* ##[mar_abort.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/mar_abort.ipynb)  
+* ##[mar_abort.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/AGRIF//mar_abort.ipynb)  
     
     March HS1  
 
-* ##[at-4th.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/at-4th.ipynb)  
+* ##[at-4th.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/AGRIF//at-4th.ipynb)  
     
 
 ##License

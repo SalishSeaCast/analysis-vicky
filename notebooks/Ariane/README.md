@@ -6,21 +6,21 @@ The links below are to static renderings of the notebooks via
 Descriptions under the links below are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
-* ##[BaynesSoundParticles-April.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/BaynesSoundParticles-April.ipynb)  
+* ##[BaynesSoundParticles-April.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//BaynesSoundParticles-April.ipynb)  
     
-* ##[BaynesSoundParticles-July.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/BaynesSoundParticles-July.ipynb)  
+* ##[BaynesSoundParticles-July.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//BaynesSoundParticles-July.ipynb)  
     
-* ##[CampbellRiverParticles.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/CampbellRiverParticles.ipynb)  
+* ##[CampbellRiverParticles.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//CampbellRiverParticles.ipynb)  
     
-* ##[DeepBayParticles.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/DeepBayParticles.ipynb)  
+* ##[DeepBayParticles.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//DeepBayParticles.ipynb)  
     
     Ariane is taking a vacation in Deep Bay.  
 
-* ##[BaynesSoundParticles-January.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/BaynesSoundParticles-January.ipynb)  
+* ##[BaynesSoundParticles-January.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//BaynesSoundParticles-January.ipynb)  
     
-* ##[BaynesSoundParticles-October.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/BaynesSoundParticles-October.ipynb)  
+* ##[BaynesSoundParticles-October.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//BaynesSoundParticles-October.ipynb)  
     
-* ##[BaynesSoundParticles.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/BaynesSoundParticles.ipynb)  
+* ##[BaynesSoundParticles.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//BaynesSoundParticles.ipynb)  
     
 
 ##License

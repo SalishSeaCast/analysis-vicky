@@ -24,7 +24,7 @@ import re
 
 NBVIEWER = 'https://nbviewer.jupyter.org/urls'
 REPO = 'bitbucket.org/salishsea/analysis-vicky/raw/tip'
-REPO_DIR = 'notebooks'
+REPO_DIR = 'notebooks/Veins/'
 TITLE_PATTERN = re.compile('#{1,6} ?')
 
 
