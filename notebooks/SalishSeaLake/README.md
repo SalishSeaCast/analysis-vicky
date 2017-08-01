@@ -17,6 +17,8 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[learning-animation.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//learning-animation.ipynb)  
     
+* ##[wind-data.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//wind-data.ipynb)  
+    
 * ##[density-animations.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//density-animations.ipynb)  
     
 * ##[initial_strat_SalishSeaLake.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//initial_strat_SalishSeaLake.ipynb)  
@@ -30,6 +32,10 @@ Descriptions under the links below are from the first cell of the notebooks
     
     A summary of tests done so far for Salish Sea Lake  
 
+* ##[wind-plane.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//wind-plane.ipynb)  
+    
+* ##[wind-sandbox.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//wind-sandbox.ipynb)  
+    
 * ##[SalishSeaLakeJan.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaLakeJan.ipynb)  
     
     **SalishSeaLake January**  
@@ -47,6 +53,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[Looking-at-one-density.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Looking-at-one-density.ipynb)  
     
 * ##[sbcana-editing.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//sbcana-editing.ipynb)  
+    
+* ##[drawing-Aug1st.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//drawing-Aug1st.ipynb)  
     
 
 ##License
