@@ -10,6 +10,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[Untitled.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//Untitled.ipynb)  
     
+* ##[Deep-deep-bay.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//Deep-deep-bay.ipynb)  
+    
 * ##[NorthernBayneSound.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//NorthernBayneSound.ipynb)  
     
 * ##[BaynesSoundParticles-July.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//BaynesSoundParticles-July.ipynb)  
