@@ -36,6 +36,8 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[wind-plane.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//wind-plane.ipynb)  
     
+* ##[density-over-different-winds.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//density-over-different-winds.ipynb)  
+    
 * ##[wind-sandbox.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//wind-sandbox.ipynb)  
     
 * ##[SalishSeaLakeJan.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaLakeJan.ipynb)  
