@@ -10,6 +10,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **SalishSeaLake June**  
 
+* ##[Untitled.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Untitled.ipynb)  
+    
 * ##[SalishSeaLake.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaLake.ipynb)  
     
     **Salish Sea Lake**  
@@ -51,6 +53,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **May 23, 2017**  
 
 * ##[Looking-at-one-density.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Looking-at-one-density.ipynb)  
+    
+* ##[summer-density-different-winds.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//summer-density-different-winds.ipynb)  
     
 * ##[sbcana-editing.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//sbcana-editing.ipynb)  
     
