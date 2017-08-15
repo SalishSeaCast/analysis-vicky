@@ -10,8 +10,6 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **SalishSeaLake June**  
 
-* ##[Untitled.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Untitled.ipynb)  
-    
 * ##[SalishSeaLake.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaLake.ipynb)  
     
     **Salish Sea Lake**  
@@ -23,6 +21,18 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[density-animations.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//density-animations.ipynb)  
     
+* ##[looking-for-stripes.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//looking-for-stripes.ipynb)  
+    
+    Looking at model runs with uniform winds of vtau = 0.2 and varying time scales with both summer and winter stratifications.   
+
+* ##[alt-notebook.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//alt-notebook.ipynb)  
+    
+* ##[nowcast-sandbox.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//nowcast-sandbox.ipynb)  
+    
+* ##[15Jan17winds.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//15Jan17winds.ipynb)  
+    
+    Looking at results from model run trying to imitate a wind event from 15Jan17.  
+
 * ##[initial_strat_SalishSeaLake.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//initial_strat_SalishSeaLake.ipynb)  
     
     **Initial Strat Files for SalishSeaLake**  
@@ -38,6 +48,10 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[density-over-different-winds.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//density-over-different-winds.ipynb)  
     
+* ##[nowcast-1023.3-animations.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//nowcast-1023.3-animations.ipynb)  
+    
+    Animations of depth of density = ~1023.3 during wind events with vwinds >= 5 m/s.   
+
 * ##[wind-sandbox.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//wind-sandbox.ipynb)  
     
 * ##[SalishSeaLakeJan.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaLakeJan.ipynb)  
@@ -56,11 +70,19 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[Looking-at-one-density.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Looking-at-one-density.ipynb)  
     
-* ##[summer-density-different-winds.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//summer-density-different-winds.ipynb)  
+* ##[nowcast-animation.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//nowcast-animation.ipynb)  
+    
+* ##[qualities-of-tilt.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//qualities-of-tilt.ipynb)  
+    
+    Looking at qualities of tilt and things fom model runs with uniform vwinds (vtau = 0.2) and varying time scales.  
+
+* ##[24-48-70-winds.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//24-48-70-winds.ipynb)  
     
 * ##[sbcana-editing.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//sbcana-editing.ipynb)  
     
 * ##[drawing-Aug1st.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//drawing-Aug1st.ipynb)  
+    
+* ##[vary-winds-cross-sections.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//vary-winds-cross-sections.ipynb)  
     
 
 ##License
