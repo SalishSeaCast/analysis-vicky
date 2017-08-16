@@ -68,6 +68,10 @@ Descriptions under the links below are from the first cell of the notebooks
     **Wind Speed Vs Wind Stress**  
     **May 23, 2017**  
 
+* ##[impulsive-longshore-wind.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//impulsive-longshore-wind.ipynb)  
+    
+    Showing equation(3.68) for SalishSeaLake  
+
 * ##[Looking-at-one-density.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Looking-at-one-density.ipynb)  
     
 * ##[nowcast-animation.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//nowcast-animation.ipynb)  
