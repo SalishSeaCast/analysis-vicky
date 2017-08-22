@@ -40,6 +40,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Comparison of Citizen Data and Nowcast  
 
+* ##[surface-mixing-comparisons.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-mixing-comparisons.ipynb)  
+    
 * ##[Updating.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Updating.ipynb)  
     
 

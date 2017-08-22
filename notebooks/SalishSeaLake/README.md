@@ -27,8 +27,16 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[alt-notebook.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//alt-notebook.ipynb)  
     
+* ##[thalweg-tilt.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//thalweg-tilt.ipynb)  
+    
+    Looking at tilt of thalweg of SalishSeaLake  
+
 * ##[nowcast-sandbox.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//nowcast-sandbox.ipynb)  
     
+* ##[quadra-island-event.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//quadra-island-event.ipynb)  
+    
+    Looking at quadra island event (Jun 2015) (results from hindcast)  
+
 * ##[15Jan17winds.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//15Jan17winds.ipynb)  
     
     Looking at results from model run trying to imitate a wind event from 15Jan17.  
@@ -46,6 +54,10 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[wind-plane.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//wind-plane.ipynb)  
     
+* ##[cross-section-tilt.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//cross-section-tilt.ipynb)  
+    
+    Looking at qualities of tilt and things fom model runs with uniform vwinds (vtau = 0.2) and varying time scales.  
+
 * ##[density-over-different-winds.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//density-over-different-winds.ipynb)  
     
 * ##[nowcast-1023.3-animations.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//nowcast-1023.3-animations.ipynb)  
@@ -76,10 +88,6 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[nowcast-animation.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//nowcast-animation.ipynb)  
     
-* ##[qualities-of-tilt.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//qualities-of-tilt.ipynb)  
-    
-    Looking at qualities of tilt and things fom model runs with uniform vwinds (vtau = 0.2) and varying time scales.  
-
 * ##[24-48-70-winds.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//24-48-70-winds.ipynb)  
     
 * ##[sbcana-editing.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//sbcana-editing.ipynb)  
