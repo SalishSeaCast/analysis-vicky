@@ -28,8 +28,6 @@ def still_inside(time, number):
                     number_of_particles[n] = number_of_particles[n] + 1
     return number_of_particles
 
-still_inside(2,407)
-
 def still_inside2(time):
     number_of_particles2=np.zeros(time)
     for l in range (time):
@@ -46,14 +44,47 @@ d = result.variables['init_z']
 for n in range(2694):
     if d[n] > 6:
         index_deep_particles.append(n)
-@profile
-def deep_particles(time, index):
+def deep_particles(lont,latt,init_z, il, ir, jl, jr):
+    p = makebox(glamfe,gphife,il,ir,jl,jr)
+    poly = path.Path(p, closed=True) 
+    time, particles = lont.shape
+    number_of_particles = np.zeros(time)
+    index_deep_particles=[]
+    for n in range(particles):
+        if init_z[n] > 6:
+            index_deep_particles.append(n)
+    length_of_deep_particles = len(index_deep_particles)
     number_of_deep_particles = np.zeros(time)
     for n in range(time):
-        for m in index:
+        deep_latt = [latt[n,m] for m in index_deep_particles]
+        deep_lont = [lont[n,m] for m in index_deep_particles]
+        pts = np.array([deep_lont,deep_latt]).T
+        test = poly.contains_points(pts)
+        number_of_deep_particles[n]= sum(test) #/ length_of_deep_particles
+    return number_of_deep_particles
+
+def deep_particles2(lont,latt,init_z, il, ir, jl, jr):
+    mask = lont[:].mask
+    p = makebox(glamfe,gphife,il,ir,jl,jr)
+    poly = path.Path(p, closed=True) 
+    time, particles = lont.shape
+    number_of_particles = np.zeros(time)
+    index_deep_particles=[]
+    for n in range(particles):
+        if init_z[n] > 6:
+            index_deep_particles.append(n)
+    length_of_deep_particles = len(index_deep_particles)
+    number_of_deep_particles = np.zeros(time)
+    for n in range(time):
+        for m in index_deep_particles:
             if (mask[n,m]) == False: 
-                y,x = geo_tools.find_closest_model_point(lont[n,m],latt[n,m],lons, lats, land_mask=bathy.mask)
-                if (598<y<658) and (118<x<134):
+                tf = poly.contains_point(np.array((lont[n,m], latt[n,m])).T)
+                if tf == True:
                     number_of_deep_particles[n] = number_of_deep_particles[n] + 1
     return number_of_deep_particles
-deep_particles(1, index_deep_particles[:5])
+@profile
+def compare(lont, latt, init_z, il, ir, jl, jr):
+    deep_particles(lont, latt, init_z, il, ir, jl, jr)
+    deep_particles2(lont, latt, init_z, il, ir, jl, jr)
+    return None  
+compare(lont[:,:2], latt[:,:2], result.variables['init_z'][:2], 120, 130, 598, 608)
