@@ -42,6 +42,8 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[surface-mixing-comparisons.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-mixing-comparisons.ipynb)  
     
+    Comparing different values for surface mixing parameters.   
+
 * ##[Updating.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Updating.ipynb)  
     
 
