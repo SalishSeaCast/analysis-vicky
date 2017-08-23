@@ -6,16 +6,16 @@ The links below are to static renderings of the notebooks via
 Descriptions under the links below are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
-* ##[Untitled.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Untitled.ipynb)  
+* ##[Untitled.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Untitled.ipynb)  
     
-* ##[Wind_wth_coastline-May42017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Wind_wth_coastline-May42017.ipynb)  
+* ##[Wind_wth_coastline-May42017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Wind_wth_coastline-May42017.ipynb)  
     
     **Wind with Coastline**  
     **May 4, 2014**  
 
-* ##[Build-use-matrix.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Build-use-matrix.ipynb)  
+* ##[Build-use-matrix.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Build-use-matrix.ipynb)  
     
-* ##[Sandbox-May32017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Sandbox-May32017.ipynb)  
+* ##[Sandbox-May32017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Sandbox-May32017.ipynb)  
     
     **Sandbox**  
       
@@ -23,29 +23,23 @@ Descriptions under the links below are from the first cell of the notebooks
       
 
 
-* ##[ONC_Patrols.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ONC_Patrols.ipynb)  
+* ##[Ariane-sandbox.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Ariane-sandbox.ipynb)  
     
-    Look at ONC patrol data  
-
-* ##[Ariane-sandbox.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane-sandbox.ipynb)  
-    
-* ##[Looking-at-tidal-height.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Looking-at-tidal-height.ipynb)  
+* ##[Looking-at-tidal-height.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Looking-at-tidal-height.ipynb)  
     
     **Tidal Heights in Nov-Dec, 2014**  
     **May 5, 2017**  
 
-* ##[CampbellRiverParticlesMore.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/CampbellRiverParticlesMore.ipynb)  
+* ##[CampbellRiverParticlesMore.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//CampbellRiverParticlesMore.ipynb)  
     
-* ##[CitizenDataVsNowcast.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/CitizenDataVsNowcast.ipynb)  
-    
-    Comparison of Citizen Data and Nowcast  
-
-* ##[surface-mixing-comparisons.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-mixing-comparisons.ipynb)  
+* ##[surface-mixing-comparisons.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//surface-mixing-comparisons.ipynb)  
     
     Comparing different values for surface mixing parameters.   
 
-* ##[Updating.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Updating.ipynb)  
+* ##[Updating.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Updating.ipynb)  
     
+    Updating old notebook to include hindcast.  
+
 
 ##License
 
