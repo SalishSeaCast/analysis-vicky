@@ -58,6 +58,10 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Animation showing density (y=350,180,100,290) through various wind events. Sandbox-like.   
 
+* ##[passive_tracer.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//passive_tracer.ipynb)  
+    
+    Tracking a passive tracer in SalishSeaLake  
+
 * ##[SalishSeaLakeSummary.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaLakeSummary.ipynb)  
     
     A summary of tests done so far for Salish Sea Lake  
@@ -97,6 +101,10 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[Looking-at-one-density.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Looking-at-one-density.ipynb)  
     
     Tracking density 1023.3 through various wind events.   
+
+* ##[cross-basin-tilt.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//cross-basin-tilt.ipynb)  
+    
+    Looking for cross basin tilt along different wind scenerios.  
 
 * ##[nowcast-animation.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//nowcast-animation.ipynb)  
     
