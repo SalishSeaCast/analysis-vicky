@@ -34,6 +34,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **Tidal Heights in Nov-Dec, 2014**  
     **May 5, 2017**  
 
+* ##[ferrysalinityvsnowcastgreen.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ferrysalinityvsnowcastgreen.ipynb)  
+    
 * ##[CampbellRiverParticlesMore.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/CampbellRiverParticlesMore.ipynb)  
     
 * ##[surface-mixing-comparisons.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-mixing-comparisons.ipynb)  
