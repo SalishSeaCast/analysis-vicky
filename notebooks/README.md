@@ -8,6 +8,8 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[Untitled.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Untitled.ipynb)  
     
+* ##[LimitationsAlongThalweg2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/LimitationsAlongThalweg2.ipynb)  
+    
 * ##[Limitations_along_thalweg.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Limitations_along_thalweg.ipynb)  
     
 * ##[Wind_wth_coastline-May42017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Wind_wth_coastline-May42017.ipynb)  
