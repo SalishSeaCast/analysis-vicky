@@ -49,6 +49,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Looking at results from model run trying to imitate a wind event from 15Jan17.  
 
+* ##[thalweg-winds-record.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//thalweg-winds-record.ipynb)  
+    
 * ##[initial_strat_SalishSeaLake.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//initial_strat_SalishSeaLake.ipynb)  
     
     **Initial Strat Files for SalishSeaLake**  
@@ -102,6 +104,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Tracking density 1023.3 through various wind events.   
 
+* ##[salinity-anomalies.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//salinity-anomalies.ipynb)  
+    
 * ##[cross-basin-tilt.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//cross-basin-tilt.ipynb)  
     
     Looking for cross basin tilt along different wind scenerios.  
