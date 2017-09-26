@@ -33,6 +33,8 @@ Descriptions under the links below are from the first cell of the notebooks
       
 
 
+* ##[drifterdata.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/drifterdata.ipynb)  
+    
 * ##[Ariane-sandbox.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane-sandbox.ipynb)  
     
 * ##[Looking-at-tidal-height.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Looking-at-tidal-height.ipynb)  
