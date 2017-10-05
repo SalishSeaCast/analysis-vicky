@@ -12,6 +12,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[Limitations_along_thalweg.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Limitations_along_thalweg.ipynb)  
     
+* ##[citizensience.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/citizensience.ipynb)  
+    
 * ##[28apr17.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/28apr17.ipynb)  
     
     forcing at 19h on April 28, 2017  
@@ -37,6 +39,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[Ariane-sandbox.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane-sandbox.ipynb)  
     
+* ##[LimitationAlongThalweg2015.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/LimitationAlongThalweg2015.ipynb)  
+    
 * ##[Looking-at-tidal-height.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Looking-at-tidal-height.ipynb)  
     
     **Tidal Heights in Nov-Dec, 2014**  
@@ -54,6 +58,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Updating old notebook to include hindcast.  
 
+* ##[LimitationAlongThalweg2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/LimitationAlongThalweg2017.ipynb)  
+    
 
 ##License
 
