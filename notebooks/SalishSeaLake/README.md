@@ -27,6 +27,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Density animation at y = 350 and y = 180 through various wind events.   
 
+* ##[SalishSeaWind-runs-cleaned.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaWind-runs-cleaned.ipynb)  
+    
 * ##[looking-for-stripes.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//looking-for-stripes.ipynb)  
     
     Looking at model runs with uniform winds of vtau = 0.2 and varying time scales with both summer and winter stratifications.   
@@ -50,6 +52,8 @@ Descriptions under the links below are from the first cell of the notebooks
     Looking at results from model run trying to imitate a wind event from 15Jan17.  
 
 * ##[thalweg-winds-record.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//thalweg-winds-record.ipynb)  
+    
+* ##[dragon.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//dragon.ipynb)  
     
 * ##[initial_strat_SalishSeaLake.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//initial_strat_SalishSeaLake.ipynb)  
     
@@ -91,6 +95,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **Coordinates and Bathy for SalishSeaLake**  
     **May 8, 2017**  
 
+* ##[SalishSeaWind-runs.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaWind-runs.ipynb)  
+    
 * ##[WindSpeedVsWindStress.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//WindSpeedVsWindStress.ipynb)  
     
     **Wind Speed Vs Wind Stress**  
