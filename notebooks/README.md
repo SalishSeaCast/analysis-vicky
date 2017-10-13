@@ -14,6 +14,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[Limitations_along_thalweg.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Limitations_along_thalweg.ipynb)  
     
+* ##[WaveMixingTestVsNowcast-Copy2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/WaveMixingTestVsNowcast-Copy2.ipynb)  
+    
 * ##[citizensience.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/citizensience.ipynb)  
     
 * ##[Untitled1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Untitled1.ipynb)  
@@ -68,6 +70,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Updating old notebook to include hindcast.  
 
+* ##[WaveMixingTestVsNowcast-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/WaveMixingTestVsNowcast-Copy1.ipynb)  
+    
 * ##[LimitationAlongThalweg2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/LimitationAlongThalweg2017.ipynb)  
     
 
