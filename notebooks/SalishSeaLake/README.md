@@ -51,6 +51,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Looking at results from model run trying to imitate a wind event from 15Jan17.  
 
+* ##[BS-salinity.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//BS-salinity.ipynb)  
+    
 * ##[thalweg-winds-record.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//thalweg-winds-record.ipynb)  
     
 * ##[dragon.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//dragon.ipynb)  
@@ -106,6 +108,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Showing equation(3.68) for SalishSeaLake as we vary different paramters (eg h, q, L)  
 
+* ##[SalishSeaWind-runs-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaWind-runs-Copy1.ipynb)  
+    
 * ##[Looking-at-one-density.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Looking-at-one-density.ipynb)  
     
     Tracking density 1023.3 through various wind events.   
