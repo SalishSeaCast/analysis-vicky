@@ -8,8 +8,6 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[CTDvsSurfaceWaveMixingTests.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/util/CTDvsSurfaceWaveMixingTests.ipynb)  
     
-* ##[CTDvsSurfaceWaveMixingTests-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/util/CTDvsSurfaceWaveMixingTests-Copy1.ipynb)  
-    
 * ##[example.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/util/example.ipynb)  
     
 
