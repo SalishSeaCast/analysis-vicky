@@ -8,13 +8,13 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[BaynesSoundParticles-April.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//BaynesSoundParticles-April.ipynb)  
     
-* ##[Untitled.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//Untitled.ipynb)  
-    
 * ##[Deep-deep-bay.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//Deep-deep-bay.ipynb)  
     
 * ##[NorthernBayneSound.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//NorthernBayneSound.ipynb)  
     
 * ##[BaynesSoundParticles-July.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//BaynesSoundParticles-July.ipynb)  
+    
+* ##[Duke-Pt-oil-spill.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//Duke-Pt-oil-spill.ipynb)  
     
 * ##[CampbellRiverParticles.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//CampbellRiverParticles.ipynb)  
     
@@ -25,6 +25,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[BaynesSoundParticles-January.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//BaynesSoundParticles-January.ipynb)  
     
 * ##[BaynesSoundParticles-October.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//BaynesSoundParticles-October.ipynb)  
+    
+* ##[CampbellRiverParticlesMore.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//CampbellRiverParticlesMore.ipynb)  
     
 * ##[BaynesSoundParticles.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//BaynesSoundParticles.ipynb)  
     
