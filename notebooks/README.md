@@ -12,6 +12,10 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[Untitled1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Untitled1.ipynb)  
     
+* ##[Accessing-CTD-data.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Accessing-CTD-data.ipynb)  
+    
+    How to access CTD data: a short guide  
+
 * ##[28apr17.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/28apr17.ipynb)  
     
     forcing at 19h on April 28, 2017  
