@@ -12,6 +12,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[Limitations_along_thalweg.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/Limitations_along_thalweg.ipynb)  
     
+* ##[LimitingVariableVideo.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitingVariableVideo.ipynb)  
+    
 * ##[LimitationAlongThalweg2015_w_NLim.NO.NH.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationAlongThalweg2015_w_NLim.NO.NH.ipynb)  
     
 * ##[LimitationAlongThalweg2015.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationAlongThalweg2015.ipynb)  
