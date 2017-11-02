@@ -16,6 +16,10 @@ Descriptions under the links below are from the first cell of the notebooks
     
     How to access CTD data: a short guide  
 
+* ##[surface-wave-mixing-haloclines-2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-wave-mixing-haloclines-2.ipynb)  
+    
+* ##[surfacewavemixingferry-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surfacewavemixingferry-Copy1.ipynb)  
+    
 * ##[28apr17.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/28apr17.ipynb)  
     
     forcing at 19h on April 28, 2017  
