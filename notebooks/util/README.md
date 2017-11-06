@@ -8,8 +8,12 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[CTDvsSurfaceWaveMixingTests.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/util/CTDvsSurfaceWaveMixingTests.ipynb)  
     
+    CTD comparisons with surface wave mixing tests part 1  
+
 * ##[CTDvsSurfaceWaveMixingTests-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/util/CTDvsSurfaceWaveMixingTests-Copy1.ipynb)  
     
+    CTD comparisons with surface wave mixing tests part 2  
+
 * ##[example.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/util/example.ipynb)  
     
 
