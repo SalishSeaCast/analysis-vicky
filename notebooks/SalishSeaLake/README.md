@@ -55,6 +55,8 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[BS-salinity.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//BS-salinity.ipynb)  
     
+* ##[Quadra_TRC.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Quadra_TRC.ipynb)  
+    
 * ##[thalweg-winds-record.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//thalweg-winds-record.ipynb)  
     
 * ##[finding-strong-summer-winds.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//finding-strong-summer-winds.ipynb)  
