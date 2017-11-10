@@ -12,6 +12,10 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[updated-nowcast-comparisons.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/updated-nowcast-comparisons.ipynb)  
     
+* ##[CTDvsNowcastgreen.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CTDvsNowcastgreen.ipynb)  
+    
+    CTD comparisons with nowcast green  
+
 * ##[drifterdata.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/drifterdata.ipynb)  
     
 * ##[ferrysalinityvsnowcastgreen.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/ferrysalinityvsnowcastgreen.ipynb)  
