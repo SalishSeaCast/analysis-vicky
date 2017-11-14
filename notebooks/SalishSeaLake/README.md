@@ -43,6 +43,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Looking at tilt of thalweg of SalishSeaLake  
 
+* ##[Quadra_TRC-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Quadra_TRC-Copy1.ipynb)  
+    
 * ##[nowcast-sandbox.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//nowcast-sandbox.ipynb)  
     
 * ##[quadra-island-event.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//quadra-island-event.ipynb)  
