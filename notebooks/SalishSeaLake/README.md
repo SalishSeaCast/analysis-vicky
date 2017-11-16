@@ -70,6 +70,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **Initial Strat Files for SalishSeaLake**  
     **May 17, 2017**  
 
+* ##[Quadra_TRC-Copy2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Quadra_TRC-Copy2.ipynb)  
+    
 * ##[density-animations-complete.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//density-animations-complete.ipynb)  
     
     Animation showing density (y=350,180,100,290) through various wind events. Sandbox-like.   
