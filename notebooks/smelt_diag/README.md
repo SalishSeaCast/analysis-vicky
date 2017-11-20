@@ -16,6 +16,10 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[LimitationAlongThalweg2015_w_NLim.NO.NH.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationAlongThalweg2015_w_NLim.NO.NH.ipynb)  
     
+* ##[CitizenScienceNutrients-surface.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-surface.ipynb)  
+    
+* ##[CitizenScienceNutrients-2m.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-2m.ipynb)  
+    
 * ##[SiVsN.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/SiVsN.ipynb)  
     
 * ##[LimitationAlongThalweg2015.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationAlongThalweg2015.ipynb)  
