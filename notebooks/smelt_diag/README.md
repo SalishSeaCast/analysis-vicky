@@ -10,6 +10,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[CitizenScienceNutrients.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients.ipynb)  
     
+    Nutrient comparison using Rich's dataset.   
+
 * ##[Limitations_along_thalweg.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/Limitations_along_thalweg.ipynb)  
     
 * ##[LimitingVariableVideo.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitingVariableVideo.ipynb)  
@@ -18,16 +20,28 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[CitizenScienceNutrients-surface.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-surface.ipynb)  
     
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth.  
+
 * ##[CitizenScienceNutrients-2m.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-2m.ipynb)  
     
+    Nutrient comparisons with edited dataset using original 2m depth  
+
 * ##[SiVsN.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/SiVsN.ipynb)  
     
 * ##[LimitationAlongThalweg2015.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationAlongThalweg2015.ipynb)  
     
 * ##[LimitationAlongThalweg2017_w_NLim.NO.NH.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationAlongThalweg2017_w_NLim.NO.NH.ipynb)  
     
+* ##[CitizenScienceNutrients-only-matching.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-only-matching.ipynb)  
+    
+    Nutrient comparison using Rich's dataset.   
+
 * ##[LimitationsAlongThalweg2016_w_NLim.NO.NH.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationsAlongThalweg2016_w_NLim.NO.NH.ipynb)  
     
+* ##[CitizenScienceNutrients-dailyaverage.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-dailyaverage.ipynb)  
+    
+    Nutrient comparison using Rich's dataset. (all of it)  
+
 * ##[LimitationAlongThalweg2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationAlongThalweg2017.ipynb)  
     
 
