@@ -45,6 +45,8 @@ Descriptions under the links below are from the first cell of the notebooks
       
 
 
+* ##[making_initial_strats.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/making_initial_strats.ipynb)  
+    
 * ##[Ariane-sandbox.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane-sandbox.ipynb)  
     
 * ##[Looking-at-tidal-height.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Looking-at-tidal-height.ipynb)  
@@ -54,6 +56,10 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[ferrysalinityvsnowcastgreen.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ferrysalinityvsnowcastgreen.ipynb)  
     
+* ##[Bathymetry201702newnew.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Bathymetry201702newnew.ipynb)  
+    
+    Looking at del  
+
 * ##[surface-mixing-comparisons.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-mixing-comparisons.ipynb)  
     
     Comparing different values for surface mixing parameters.   
