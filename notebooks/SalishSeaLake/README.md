@@ -109,6 +109,8 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[SalishSeaWind-runs.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaWind-runs.ipynb)  
     
+* ##[candidates.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//candidates.ipynb)  
+    
 * ##[WindSpeedVsWindStress.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//WindSpeedVsWindStress.ipynb)  
     
     **Wind Speed Vs Wind Stress**  
