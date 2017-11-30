@@ -10,13 +10,15 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Nutrient comparison using Rich's dataset.   
 
-* ##[matching-CitSci-data.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/matching-CitSci-data.ipynb)  
-    
-    Nutrient comparison using Rich's dataset. (all of it)  
-
-* ##[CitizenScienceNutrients-SiRatio1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-SiRatio1.ipynb)  
+* ##[CitizenScienceNutrients-surface-01feb-02may.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-surface-01feb-02may.ipynb)  
     
     Nutrient comparisons with edited dataset using surface instead of 2m for depth.  
+
+* ##[matching-CitSci-data.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/matching-CitSci-data.ipynb)  
+    
+* ##[CitizenScienceNutrients-SiRatio1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-SiRatio1.ipynb)  
+    
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (smelttest1)  
 
 * ##[LimitingVariableVideo.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitingVariableVideo.ipynb)  
     
@@ -28,7 +30,7 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[CitizenScienceNutrients-SiRatio1_5.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-SiRatio1_5.ipynb)  
     
-    Nutrient comparisons with edited dataset using surface instead of 2m for depth.  
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (smelttest2)  
 
 * ##[SiVsN.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/SiVsN.ipynb)  
     
