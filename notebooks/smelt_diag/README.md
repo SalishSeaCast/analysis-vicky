@@ -6,13 +6,17 @@ The links below are to static renderings of the notebooks via
 Descriptions under the links below are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
+* ##[CitizenScienceNutrients-slowdiat.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-slowdiat.ipynb)  
+    
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (smelttest3)  
+
 * ##[CitizenScienceNutrients.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients.ipynb)  
     
     Nutrient comparison using Rich's dataset.   
 
 * ##[CitizenScienceNutrients-surface-01feb-02may.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-surface-01feb-02may.ipynb)  
     
-    Nutrient comparisons with edited dataset using surface instead of 2m for depth.  
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. Limited between 01feb15 and 02may15  
 
 * ##[matching-CitSci-data.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/matching-CitSci-data.ipynb)  
     
