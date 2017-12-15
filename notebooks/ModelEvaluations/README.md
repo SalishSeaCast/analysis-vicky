@@ -12,6 +12,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[citizensience.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/citizensience.ipynb)  
     
+* ##[waterqualitybuoy.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/waterqualitybuoy.ipynb)  
+    
 * ##[updated-nowcast-comparisons.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/updated-nowcast-comparisons.ipynb)  
     
 * ##[CTDvsNowcastgreen.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CTDvsNowcastgreen.ipynb)  
@@ -19,6 +21,8 @@ Descriptions under the links below are from the first cell of the notebooks
     CTD comparisons with nowcast green  
 
 * ##[ferrysalinityvsnowcastgreen-by-longitude.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/ferrysalinityvsnowcastgreen-by-longitude.ipynb)  
+    
+* ##[FerryChlVsNowcastGreen-bylongitude.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/FerryChlVsNowcastGreen-bylongitude.ipynb)  
     
 * ##[drifterdata.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/drifterdata.ipynb)  
     
@@ -32,8 +36,6 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Updating old notebook to include hindcast.  
 
-* ##[FerryChlVsNowcastGreen-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/FerryChlVsNowcastGreen-Copy1.ipynb)  
-    
 
 ##License
 
