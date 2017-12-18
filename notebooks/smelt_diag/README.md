@@ -8,11 +8,22 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[CitizenScienceNutrients-slowdiat.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-slowdiat.ipynb)  
     
-    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (smelttest3)  
+    **Si Ratio 1.5**  
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
+
+* ##[CitizenScienceNutrients-NewRiverSi.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-NewRiverSi.ipynb)  
+    
+    **New River Si**  
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
 
 * ##[CitizenScienceNutrients.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients.ipynb)  
     
     Nutrient comparison using Rich's dataset.   
+
+* ##[CitizenScienceNutrients-SiRatio2_2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-SiRatio2_2.ipynb)  
+    
+    **Si Ratio 2.2**  
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
 
 * ##[CitizenScienceNutrients-surface-01feb-02may.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-surface-01feb-02may.ipynb)  
     
@@ -22,7 +33,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[CitizenScienceNutrients-SiRatio1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-SiRatio1.ipynb)  
     
-    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (smelttest1)  
+    **Si Ratio 1**  
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
 
 * ##[LimitingVariableVideo.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitingVariableVideo.ipynb)  
     
@@ -32,9 +44,14 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Nutrient comparisons with edited dataset using surface instead of 2m for depth.  
 
+* ##[matching-cs-si-to-richs-sal.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/matching-cs-si-to-richs-sal.ipynb)  
+    
+    Matching Colin's  Si values to Rich's salinity values  
+
 * ##[CitizenScienceNutrients-SiRatio1_5.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-SiRatio1_5.ipynb)  
     
-    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (smelttest2)  
+    **Si Ratio 1.5**  
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
 
 * ##[SiVsN.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/SiVsN.ipynb)  
     
