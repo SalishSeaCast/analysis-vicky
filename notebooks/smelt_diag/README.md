@@ -8,7 +8,7 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[CitizenScienceNutrients-slowdiat.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-slowdiat.ipynb)  
     
-    **Si Ratio 1.5**  
+    **slowdiat**  
     Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
 
 * ##[CitizenScienceNutrients-NewRiverSi.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-NewRiverSi.ipynb)  
@@ -51,6 +51,11 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[CitizenScienceNutrients-SiRatio1_5.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-SiRatio1_5.ipynb)  
     
     **Si Ratio 1.5**  
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
+
+* ##[CitizenScienceNutrients-HalfSat.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-HalfSat.ipynb)  
+    
+    **HalfSat**  
     Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
 
 * ##[SiVsN.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/SiVsN.ipynb)  
