@@ -53,11 +53,15 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Looking at quadra island event (Jun 2015) (results from hindcast)  
 
+* ##[wind-events.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//wind-events.ipynb)  
+    
 * ##[15Jan17winds.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//15Jan17winds.ipynb)  
     
     Looking at results from model run trying to imitate a wind event from 15Jan17.  
 
 * ##[BS-salinity.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//BS-salinity.ipynb)  
+    
+* ##[quadra_w_wo_N.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//quadra_w_wo_N.ipynb)  
     
 * ##[Quadra_TRC.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Quadra_TRC.ipynb)  
     
