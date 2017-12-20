@@ -32,15 +32,11 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[drifterdata.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/drifterdata.ipynb)  
     
-* ##[ferry-chl-again.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/ferry-chl-again.ipynb)  
-    
 * ##[FerryChlVsNowcastGreen.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/FerryChlVsNowcastGreen.ipynb)  
     
 * ##[CitSciChl2016-hourly.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSciChl2016-hourly.ipynb)  
     
 * ##[ferrysalinityvsnowcastgreen.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/ferrysalinityvsnowcastgreen.ipynb)  
-    
-* ##[CitSciChl2016-daily.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSciChl2016-daily.ipynb)  
     
 * ##[CitSci-single-depth-profiles.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSci-single-depth-profiles.ipynb)  
     
@@ -48,8 +44,6 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Updating old notebook to include hindcast.  
 
-* ##[FerryChlVsNowcastGreen-bylongitude-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/FerryChlVsNowcastGreen-bylongitude-Copy1.ipynb)  
-    
 
 ##License
 
