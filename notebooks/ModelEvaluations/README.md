@@ -12,6 +12,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[citizensience.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/citizensience.ipynb)  
     
+* ##[FerryChlVsNowcastGreen-bylongitude-log.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/FerryChlVsNowcastGreen-bylongitude-log.ipynb)  
+    
 * ##[updated-nowcast-comparisons.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/updated-nowcast-comparisons.ipynb)  
     
 * ##[CTDvsNowcastgreen.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CTDvsNowcastgreen.ipynb)  
