@@ -16,6 +16,11 @@ Descriptions under the links below are from the first cell of the notebooks
     **New River Si**  
     Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
 
+* ##[CitizenScienceNutrients-RateAndHalfSat.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-RateAndHalfSat.ipynb)  
+    
+    **RateAndHalfSat**  
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
+
 * ##[CitizenScienceNutrients.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients.ipynb)  
     
     Nutrient comparison using Rich's dataset.   
@@ -60,8 +65,17 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[SiVsN.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/SiVsN.ipynb)  
     
+* ##[NewVsOld.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/NewVsOld.ipynb)  
+    
+    Differences betwee running old and new smelt code woth various smelt namelists  
+
 * ##[LimitationAlongThalweg2017_w_NLim.NO.NH.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationAlongThalweg2017_w_NLim.NO.NH.ipynb)  
     
+* ##[CitizenScienceNutrients-SiRatio1-old.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-SiRatio1-old.ipynb)  
+    
+    **Si Ratio 1**  
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
+
 * ##[LimitationsAlongThalweg2016_w_NLim.NO.NH.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationsAlongThalweg2016_w_NLim.NO.NH.ipynb)  
     
 * ##[CitizenScienceNutrients-dailyaverage.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-dailyaverage.ipynb)  
@@ -71,7 +85,7 @@ Descriptions under the links below are from the first cell of the notebooks
 
 ##License
 
-These notebooks and files are copyright 2013-2017
+These notebooks and files are copyright 2013-2018
 by the Salish Sea MEOPAR Project Contributors
 and The University of British Columbia.
 
