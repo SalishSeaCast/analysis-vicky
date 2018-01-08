@@ -41,6 +41,11 @@ Descriptions under the links below are from the first cell of the notebooks
     **Si Ratio 1**  
     Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
 
+* ##[CitizenScienceNutrients-slowdiat-old.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-slowdiat-old.ipynb)  
+    
+    **slowdiat**  
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (using newer code)  
+
 * ##[LimitingVariableVideo.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitingVariableVideo.ipynb)  
     
 * ##[LimitationAlongThalweg2015_w_NLim.NO.NH.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationAlongThalweg2015_w_NLim.NO.NH.ipynb)  
