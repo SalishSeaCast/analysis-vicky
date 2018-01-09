@@ -12,6 +12,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[citizensience.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/citizensience.ipynb)  
     
+* ##[SFUnode.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SFUnode.ipynb)  
+    
 * ##[FerryChlVsNowcastGreen-bylongitude-log.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/FerryChlVsNowcastGreen-bylongitude-log.ipynb)  
     
 * ##[updated-nowcast-comparisons.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/updated-nowcast-comparisons.ipynb)  
@@ -27,6 +29,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[ferrysalinityvsnowcastgreen-by-longitude.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/ferrysalinityvsnowcastgreen-by-longitude.ipynb)  
     
 * ##[FerryChlVsNowcastGreen-bylongitude.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/FerryChlVsNowcastGreen-bylongitude.ipynb)  
+    
+* ##[SC-ssh.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SC-ssh.ipynb)  
     
 * ##[waterqualitybuoy-daily.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/waterqualitybuoy-daily.ipynb)  
     
@@ -49,7 +53,7 @@ Descriptions under the links below are from the first cell of the notebooks
 
 ##License
 
-These notebooks and files are copyright 2013-2017
+These notebooks and files are copyright 2013-2018
 by the Salish Sea MEOPAR Project Contributors
 and The University of British Columbia.
 
