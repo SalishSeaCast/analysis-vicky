@@ -59,6 +59,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Looking at results from model run trying to imitate a wind event from 15Jan17.  
 
+* ##[stats-wind.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//stats-wind.ipynb)  
+    
 * ##[BS-salinity.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//BS-salinity.ipynb)  
     
 * ##[quadra_w_wo_N.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//quadra_w_wo_N.ipynb)  
@@ -153,7 +155,7 @@ Descriptions under the links below are from the first cell of the notebooks
 
 ##License
 
-These notebooks and files are copyright 2013-2017
+These notebooks and files are copyright 2013-2018
 by the Salish Sea MEOPAR Project Contributors
 and The University of British Columbia.
 
