@@ -22,6 +22,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     CTD comparisons with nowcast green  
 
+* ##[SC-ssh-subtrac-corr.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SC-ssh-subtrac-corr.ipynb)  
+    
 * ##[waterqualitybuoy-hourly.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/waterqualitybuoy-hourly.ipynb)  
     
     Using hourly interpolated averages  
