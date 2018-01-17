@@ -48,7 +48,11 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[ferrysalinityvsnowcastgreen.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/ferrysalinityvsnowcastgreen.ipynb)  
     
+* ##[SC-ssh-Jan01-08.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SC-ssh-Jan01-08.ipynb)  
+    
 * ##[CitSci-single-depth-profiles.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSci-single-depth-profiles.ipynb)  
+    
+* ##[CitSciNutrients2016-hourly.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSciNutrients2016-hourly.ipynb)  
     
 * ##[SC-ssh-w_corr.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SC-ssh-w_corr.ipynb)  
     
