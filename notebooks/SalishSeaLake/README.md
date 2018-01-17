@@ -19,6 +19,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **Salish Sea Lake**  
     **May 12, 2017**  
 
+* ##[nitrate.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//nitrate.ipynb)  
+    
 * ##[learning-animation.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//learning-animation.ipynb)  
     
     Sandbox to learn how to make animations. Very messy. Weird animations.   
