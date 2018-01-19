@@ -36,6 +36,10 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[matching-CitSci-data.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/matching-CitSci-data.ipynb)  
     
+* ##[CitizenScienceNutrients-surface-hourly.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-surface-hourly.ipynb)  
+    
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth.  
+
 * ##[CitizenScienceNutrients-SiRatio1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-SiRatio1.ipynb)  
     
     **Si Ratio 1**  
@@ -54,6 +58,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[LimitingVariableVideo.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitingVariableVideo.ipynb)  
     
 * ##[LimitationAlongThalweg2015_w_NLim.NO.NH.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationAlongThalweg2015_w_NLim.NO.NH.ipynb)  
+    
+* ##[bioevalfigure.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/bioevalfigure.ipynb)  
     
 * ##[CitizenScienceNutrients-surface.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-surface.ipynb)  
     
