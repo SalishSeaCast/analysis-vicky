@@ -8,6 +8,8 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[updated-nowcast-comparisons-singledays.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/updated-nowcast-comparisons-singledays.ipynb)  
     
+* ##[CitSciChl2017-hourly.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSciChl2017-hourly.ipynb)  
+    
 * ##[psf-picture.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/psf-picture.ipynb)  
     
 * ##[citizensience.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/citizensience.ipynb)  
@@ -22,6 +24,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     CTD comparisons with nowcast green  
 
+* ##[SC-ssh-nobreak.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SC-ssh-nobreak.ipynb)  
+    
 * ##[SC-ssh-subtrac-corr.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SC-ssh-subtrac-corr.ipynb)  
     
 * ##[waterqualitybuoy-hourly.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/waterqualitybuoy-hourly.ipynb)  
@@ -48,7 +52,9 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[ferrysalinityvsnowcastgreen.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/ferrysalinityvsnowcastgreen.ipynb)  
     
-* ##[SC-ssh-Jan01-08.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SC-ssh-Jan01-08.ipynb)  
+* ##[CitSciChl2015.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSciChl2015.ipynb)  
+    
+* ##[SH-ssh-Jan01-08.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SH-ssh-Jan01-08.ipynb)  
     
 * ##[CitSci-single-depth-profiles.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSci-single-depth-profiles.ipynb)  
     
