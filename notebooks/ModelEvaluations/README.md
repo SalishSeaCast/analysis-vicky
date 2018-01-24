@@ -28,8 +28,6 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[SC-ssh-nobreak.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SC-ssh-nobreak.ipynb)  
     
-* ##[CitSciChl2015-surface.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSciChl2015-surface.ipynb)  
-    
 * ##[SC-ssh-subtrac-corr.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SC-ssh-subtrac-corr.ipynb)  
     
 * ##[waterqualitybuoy-hourly.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/waterqualitybuoy-hourly.ipynb)  
@@ -37,8 +35,6 @@ Descriptions under the links below are from the first cell of the notebooks
     Using hourly interpolated averages  
 
 * ##[ferrysalinityvsnowcastgreen-by-longitude.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/ferrysalinityvsnowcastgreen-by-longitude.ipynb)  
-    
-* ##[CitSciChl2016-hourly-surface.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSciChl2016-hourly-surface.ipynb)  
     
 * ##[FerryChlVsNowcastGreen-bylongitude.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/FerryChlVsNowcastGreen-bylongitude.ipynb)  
     
@@ -61,6 +57,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[CitSciChl2015.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSciChl2015.ipynb)  
     
 * ##[SH-ssh-Jan01-08.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SH-ssh-Jan01-08.ipynb)  
+    
+* ##[CitSciNutrients2016-hourly-hindcast.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSciNutrients2016-hourly-hindcast.ipynb)  
     
 * ##[SC_t_tide.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SC_t_tide.ipynb)  
     
