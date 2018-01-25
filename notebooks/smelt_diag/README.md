@@ -65,6 +65,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Nutrient comparisons with edited dataset using surface instead of 2m for depth.  
 
+* ##[silicon-time-series-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/silicon-time-series-Copy1.ipynb)  
+    
 * ##[matching-cs-si-to-richs-sal.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/matching-cs-si-to-richs-sal.ipynb)  
     
     Matching Colin's  Si values to Rich's salinity values  
@@ -93,6 +95,10 @@ Descriptions under the links below are from the first cell of the notebooks
     Nutrient comparisons with edited dataset using surface instead of 2m for depth. (using newer code)  
 
 * ##[LimitationsAlongThalweg2016_w_NLim.NO.NH.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationsAlongThalweg2016_w_NLim.NO.NH.ipynb)  
+    
+* ##[silicon-time-series.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/silicon-time-series.ipynb)  
+    
+* ##[depth-profile-time-series.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/depth-profile-time-series.ipynb)  
     
 * ##[CitizenScienceNutrients-SiRatio1_5-old.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-SiRatio1_5-old.ipynb)  
     
