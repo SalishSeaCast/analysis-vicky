@@ -112,6 +112,10 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **SalishSeaLake January**  
 
+* ##[PCA-surface-tracer.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//PCA-surface-tracer.ipynb)  
+    
+* ##[max_buoy_freq.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//max_buoy_freq.ipynb)  
+    
 * ##[coordinate-and-bathy-for-salishsealake.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//coordinate-and-bathy-for-salishsealake.ipynb)  
     
     **Coordinates and Bathy for SalishSeaLake**  
