@@ -86,6 +86,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Animation showing density (y=350,180,100,290) through various wind events. Sandbox-like.   
 
+* ##[PCA-surface-tracer-cropped.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//PCA-surface-tracer-cropped.ipynb)  
+    
 * ##[passive_tracer.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//passive_tracer.ipynb)  
     
     Tracking a passive tracer in SalishSeaLake  
