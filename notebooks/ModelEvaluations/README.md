@@ -16,8 +16,6 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[Untitled.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/Untitled.ipynb)  
     
-* ##[FerryChlVsNowcastGreen-2017-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/FerryChlVsNowcastGreen-2017-Copy1.ipynb)  
-    
 * ##[citizensience.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/citizensience.ipynb)  
     
 * ##[SFUnode.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SFUnode.ipynb)  
@@ -81,6 +79,8 @@ Descriptions under the links below are from the first cell of the notebooks
     Updating old notebook to include hindcast.  
 
 * ##[FerryChlVsNowcastGreen-2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/FerryChlVsNowcastGreen-2017.ipynb)  
+    
+* ##[NANOOS_SanJuan.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/NANOOS_SanJuan.ipynb)  
     
 * ##[CitSciNutrients2017-hourly.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSciNutrients2017-hourly.ipynb)  
     
