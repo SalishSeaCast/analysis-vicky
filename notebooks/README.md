@@ -18,6 +18,8 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[surface-wave-mixing-haloclines-2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-wave-mixing-haloclines-2.ipynb)  
     
+* ##[NCO-3monMeans-NowcastGreen-2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monMeans-NowcastGreen-2017.ipynb)  
+    
 * ##[surfacewavemixingferry-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surfacewavemixingferry-Copy1.ipynb)  
     
 * ##[28apr17.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/28apr17.ipynb)  
@@ -25,6 +27,8 @@ Descriptions under the links below are from the first cell of the notebooks
     forcing at 19h on April 28, 2017  
 
 * ##[surface-wave-mixing-haloclines.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-wave-mixing-haloclines.ipynb)  
+    
+* ##[NCO-3monMeans-NowcastGreen-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monMeans-NowcastGreen-Copy1.ipynb)  
     
 * ##[Wind_wth_coastline-May42017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Wind_wth_coastline-May42017.ipynb)  
     
@@ -54,12 +58,29 @@ Descriptions under the links below are from the first cell of the notebooks
     **Tidal Heights in Nov-Dec, 2014**  
     **May 5, 2017**  
 
+* ##[ProcessNewRiverBathymetry.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ProcessNewRiverBathymetry.ipynb)  
+    
+    **Process New River Bathymetry ****  
+    Take the bathymetry produced by Michael including the better resolved river and process it.  
+    We need to do the following steps:  
+    1. Straighten North Open Boundary  
+    2. Straighten West Open Boundary  
+    3. Check continuity and Add Mixed Islands  
+    3.1 Fix Puget  
+    4. Smooth  
+    4.1 Extra smooth Puget  
+    5. Add shallow Jetty  
+    6. Check dredged River Channel  
+    7. Plot up our Final Bathymetry  
+    8. Write out bathy file and jetty extra friction files  
+    Note: original 201702 processing did Check continuity and add mixed islands and fix Puget after smoothing.  
+
 * ##[ferrysalinityvsnowcastgreen.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ferrysalinityvsnowcastgreen.ipynb)  
     
 * ##[Bathymetry201702newnew.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Bathymetry201702newnew.ipynb)  
     
-    Looking at del  
-
+* ##[NCO-3monMeans-NowcastGreen.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monMeans-NowcastGreen.ipynb)  
+    
 * ##[surface-mixing-comparisons.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-mixing-comparisons.ipynb)  
     
     Comparing different values for surface mixing parameters.   
@@ -67,7 +88,7 @@ Descriptions under the links below are from the first cell of the notebooks
 
 ##License
 
-These notebooks and files are copyright 2013-2017
+These notebooks and files are copyright 2013-2018
 by the Salish Sea MEOPAR Project Contributors
 and The University of British Columbia.
 
