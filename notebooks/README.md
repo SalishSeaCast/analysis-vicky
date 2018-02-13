@@ -47,6 +47,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[surfacewavemixingferry-Copy2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surfacewavemixingferry-Copy2.ipynb)  
     
+* ##[averaged-over-30m.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/averaged-over-30m.ipynb)  
+    
 * ##[CHECKERBOARD.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/CHECKERBOARD.ipynb)  
     
 * ##[Sandbox-May32017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Sandbox-May32017.ipynb)  
