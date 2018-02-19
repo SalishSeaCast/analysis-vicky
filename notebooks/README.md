@@ -24,6 +24,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     How to access CTD data: a short guide  
 
+* ##[hindcast-averages.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/hindcast-averages.ipynb)  
+    
 * ##[surface-wave-mixing-haloclines-2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-wave-mixing-haloclines-2.ipynb)  
     
 * ##[NCO-3monMeans-NowcastGreen-2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monMeans-NowcastGreen-2017.ipynb)  
