@@ -28,6 +28,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[surface-wave-mixing-haloclines-2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-wave-mixing-haloclines-2.ipynb)  
     
+* ##[swiftsure.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/swiftsure.ipynb)  
+    
 * ##[NCO-3monMeans-NowcastGreen-2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monMeans-NowcastGreen-2017.ipynb)  
     
 * ##[surfacewavemixingferry-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surfacewavemixingferry-Copy1.ipynb)  
@@ -92,6 +94,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[Bathymetry201702newnew.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Bathymetry201702newnew.ipynb)  
     
 * ##[NCO-3monMeans-NowcastGreen-2016.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monMeans-NowcastGreen-2016.ipynb)  
+    
+* ##[seasonal-averaged-plume.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/seasonal-averaged-plume.ipynb)  
     
 * ##[surface-mixing-comparisons.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-mixing-comparisons.ipynb)  
     
