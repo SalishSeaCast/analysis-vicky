@@ -65,6 +65,11 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Nutrient comparisons with edited dataset using surface instead of 2m for depth.  
 
+* ##[CitizenScienceNutrients-RateAndHalfSat-extended.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-RateAndHalfSat-extended.ipynb)  
+    
+    **RateAndHalfSat - extended**  
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
+
 * ##[silicon-time-series-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/silicon-time-series-Copy1.ipynb)  
     
 * ##[matching-cs-si-to-richs-sal.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/matching-cs-si-to-richs-sal.ipynb)  
@@ -105,6 +110,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **Si Ratio 1.5**  
     Nutrient comparisons with edited dataset using surface instead of 2m for depth. (using newer code)  
 
+* ##[bio-eval-chl.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/bio-eval-chl.ipynb)  
+    
 * ##[CitizenScienceNutrients-dailyaverage.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-dailyaverage.ipynb)  
     
     Nutrient comparison using Rich's dataset. (all of it)  
