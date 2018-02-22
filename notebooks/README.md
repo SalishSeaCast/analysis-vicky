@@ -72,6 +72,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **Tidal Heights in Nov-Dec, 2014**  
     **May 5, 2017**  
 
+* ##[swiftsure2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/swiftsure2.ipynb)  
+    
 * ##[ProcessNewRiverBathymetry.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ProcessNewRiverBathymetry.ipynb)  
     
     **Process New River Bathymetry ****  
