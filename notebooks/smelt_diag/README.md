@@ -6,6 +6,12 @@ The links below are to static renderings of the notebooks via
 Descriptions under the links below are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
+* ##[CSNuts-nowcast-green-01feb-28sep.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CSNuts-nowcast-green-01feb-28sep.ipynb)  
+    
+    **Feb 1 - Sep 28, 2018**  
+      
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth.  
+
 * ##[CitizenScienceNutrients-slowdiat.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-slowdiat.ipynb)  
     
     **slowdiat**  
