@@ -6,15 +6,15 @@ The links below are to static renderings of the notebooks via
 Descriptions under the links below are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
-* ##[NCO-3monMeans-NowcastGreen-2015-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monMeans-NowcastGreen-2015-Copy1.ipynb)  
+* ##[hindcast-averages-sum_dfc.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/hindcast-averages-sum_dfc.ipynb)  
+    
+* ##[sum-dia-cia-fla.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/sum-dia-cia-fla.ipynb)  
     
 * ##[surfacewavemixingferry.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surfacewavemixingferry.ipynb)  
     
 * ##[NCO-3monDeepMeans-NowcastGreen-2015.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monDeepMeans-NowcastGreen-2015.ipynb)  
     
 * ##[Untitled.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Untitled.ipynb)  
-    
-* ##[NCO-3monMeans-NowcastGreen-2015-Copy2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monMeans-NowcastGreen-2015-Copy2.ipynb)  
     
 * ##[NCO-3monDeepMeans-NowcastGreen-2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monDeepMeans-NowcastGreen-2017.ipynb)  
     
@@ -27,8 +27,6 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[hindcast-averages.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/hindcast-averages.ipynb)  
     
 * ##[surface-wave-mixing-haloclines-2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-wave-mixing-haloclines-2.ipynb)  
-    
-* ##[swiftsure.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/swiftsure.ipynb)  
     
 * ##[NCO-3monMeans-NowcastGreen-2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monMeans-NowcastGreen-2017.ipynb)  
     
@@ -72,8 +70,6 @@ Descriptions under the links below are from the first cell of the notebooks
     **Tidal Heights in Nov-Dec, 2014**  
     **May 5, 2017**  
 
-* ##[swiftsure2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/swiftsure2.ipynb)  
-    
 * ##[ProcessNewRiverBathymetry.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ProcessNewRiverBathymetry.ipynb)  
     
     **Process New River Bathymetry ****  
