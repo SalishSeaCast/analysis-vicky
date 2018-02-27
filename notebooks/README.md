@@ -45,6 +45,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **Wind with Coastline**  
     **May 4, 2014**  
 
+* ##[sum-dia-cia-fla-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/sum-dia-cia-fla-Copy1.ipynb)  
+    
 * ##[Build-use-matrix.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Build-use-matrix.ipynb)  
     
 * ##[surfacewavemixingferry-Copy2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surfacewavemixingferry-Copy2.ipynb)  
@@ -96,6 +98,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[NCO-3monMeans-NowcastGreen-2016.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monMeans-NowcastGreen-2016.ipynb)  
     
 * ##[seasonal-averaged-plume.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/seasonal-averaged-plume.ipynb)  
+    
+* ##[hindcast-averages-sum_grme.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/hindcast-averages-sum_grme.ipynb)  
     
 * ##[surface-mixing-comparisons.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-mixing-comparisons.ipynb)  
     
