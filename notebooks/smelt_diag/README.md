@@ -22,6 +22,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **New River Si**  
     Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
 
+* ##[FerryChl2017-lon.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/FerryChl2017-lon.ipynb)  
+    
 * ##[LimitationsAlongThalweg2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationsAlongThalweg2.ipynb)  
     
 * ##[CitizenScienceNutrients-RateAndHalfSat.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-RateAndHalfSat.ipynb)  
