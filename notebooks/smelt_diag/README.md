@@ -124,6 +124,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **Si Ratio 1.5**  
     Nutrient comparisons with edited dataset using surface instead of 2m for depth. (using newer code)  
 
+* ##[CSNuts2016-hourly-bymonth.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CSNuts2016-hourly-bymonth.ipynb)  
+    
 * ##[CSNut-RateAndHalfSat-extended-bymonth.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CSNut-RateAndHalfSat-extended-bymonth.ipynb)  
     
     **RateAndHalfSat - extended**  
