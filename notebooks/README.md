@@ -8,19 +8,19 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[hindcast-averages-sum_dfc.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/hindcast-averages-sum_dfc.ipynb)  
     
-* ##[sum-dia-cia-fla.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/sum-dia-cia-fla.ipynb)  
-    
 * ##[surfacewavemixingferry.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surfacewavemixingferry.ipynb)  
-    
-* ##[NCO-3monDeepMeans-NowcastGreen-2015.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monDeepMeans-NowcastGreen-2015.ipynb)  
     
 * ##[Untitled.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Untitled.ipynb)  
     
+* ##[LimitationsAlongThalweg2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/LimitationsAlongThalweg2.ipynb)  
+    
 * ##[hindcast-averages-sum_pp.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/hindcast-averages-sum_pp.ipynb)  
     
-* ##[NCO-3monDeepMeans-NowcastGreen-2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monDeepMeans-NowcastGreen-2017.ipynb)  
+* ##[Limitations_along_thalweg.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Limitations_along_thalweg.ipynb)  
     
-* ##[Untitled1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Untitled1.ipynb)  
+* ##[citizensience.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/citizensience.ipynb)  
+    
+* ##[NCO-3monDeepMeans-NowcastGreen-2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monDeepMeans-NowcastGreen-2017.ipynb)  
     
 * ##[Accessing-CTD-data.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Accessing-CTD-data.ipynb)  
     
@@ -36,10 +36,6 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[NCO-3monMeans-NowcastGreen-2015.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monMeans-NowcastGreen-2015.ipynb)  
     
-* ##[28apr17.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/28apr17.ipynb)  
-    
-    forcing at 19h on April 28, 2017  
-
 * ##[surface-wave-mixing-haloclines.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-wave-mixing-haloclines.ipynb)  
     
 * ##[Wind_wth_coastline-May42017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Wind_wth_coastline-May42017.ipynb)  
@@ -47,7 +43,7 @@ Descriptions under the links below are from the first cell of the notebooks
     **Wind with Coastline**  
     **May 4, 2014**  
 
-* ##[sum-dia-cia-fla-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/sum-dia-cia-fla-Copy1.ipynb)  
+* ##[LimitationAlongThalweg2015_w_NLim.NO.NH.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/LimitationAlongThalweg2015_w_NLim.NO.NH.ipynb)  
     
 * ##[Build-use-matrix.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Build-use-matrix.ipynb)  
     
@@ -65,41 +61,34 @@ Descriptions under the links below are from the first cell of the notebooks
       
 
 
-* ##[making_initial_strats.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/making_initial_strats.ipynb)  
-    
 * ##[Ariane-sandbox.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane-sandbox.ipynb)  
+    
+* ##[LimitationAlongThalweg2015.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/LimitationAlongThalweg2015.ipynb)  
     
 * ##[Looking-at-tidal-height.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Looking-at-tidal-height.ipynb)  
     
     **Tidal Heights in Nov-Dec, 2014**  
     **May 5, 2017**  
 
-* ##[sum-dia-cia-fla-Copy2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/sum-dia-cia-fla-Copy2.ipynb)  
+* ##[LimitationAlongThalweg2017_w_NLim.NO.NH.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/LimitationAlongThalweg2017_w_NLim.NO.NH.ipynb)  
     
-* ##[ProcessNewRiverBathymetry.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ProcessNewRiverBathymetry.ipynb)  
+* ##[swiftsure2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/swiftsure2.ipynb)  
     
-    **Process New River Bathymetry ****  
-    Take the bathymetry produced by Michael including the better resolved river and process it.  
-    We need to do the following steps:  
-    1. Straighten North Open Boundary  
-    2. Straighten West Open Boundary  
-    3. Check continuity and Add Mixed Islands  
-    3.1 Fix Puget  
-    4. Smooth  
-    4.1 Extra smooth Puget  
-    5. Add shallow Jetty  
-    6. Check dredged River Channel  
-    7. Plot up our Final Bathymetry  
-    8. Write out bathy file and jetty extra friction files  
-    Note: original 201702 processing did Check continuity and add mixed islands and fix Puget after smoothing.  
-
 * ##[ferrysalinityvsnowcastgreen.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ferrysalinityvsnowcastgreen.ipynb)  
     
 * ##[swiftsureAGRIF.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/swiftsureAGRIF.ipynb)  
     
 * ##[Bathymetry201702newnew.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Bathymetry201702newnew.ipynb)  
     
+    Looking at del  
+
+* ##[LimitationsAlongThalweg2016_w_NLim.NO.NH.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/LimitationsAlongThalweg2016_w_NLim.NO.NH.ipynb)  
+    
 * ##[NCO-3monMeans-NowcastGreen-2016.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monMeans-NowcastGreen-2016.ipynb)  
+    
+* ##[CampbellRiverParticlesMore.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/CampbellRiverParticlesMore.ipynb)  
+    
+* ##[swiftsureAGRIF-zoomed-SEA.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/swiftsureAGRIF-zoomed-SEA.ipynb)  
     
 * ##[swiftsureAGRIF-zoomed.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/swiftsureAGRIF-zoomed.ipynb)  
     
@@ -111,7 +100,11 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Comparing different values for surface mixing parameters.   
 
-* ##[NCO-3monDeepMeans-NowcastGreen-2016.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monDeepMeans-NowcastGreen-2016.ipynb)  
+* ##[Updating.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Updating.ipynb)  
+    
+    Updating old notebook to include hindcast.  
+
+* ##[LimitationAlongThalweg2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/LimitationAlongThalweg2017.ipynb)  
     
 
 ##License
