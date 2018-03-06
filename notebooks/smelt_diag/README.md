@@ -133,6 +133,11 @@ Descriptions under the links below are from the first cell of the notebooks
     **RateAndHalfSat - extended**  
     Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
 
+* ##[CSNut-RateAndHalfSat-extended-box.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CSNut-RateAndHalfSat-extended-box.ipynb)  
+    
+    **RateAndHalfSat - extended**  
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
+
 * ##[CitizenScienceNutrients-dailyaverage.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-dailyaverage.ipynb)  
     
     Nutrient comparison using Rich's dataset. (all of it)  
