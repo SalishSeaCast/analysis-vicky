@@ -8,14 +8,10 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[carbon-sampling-dates.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//carbon-sampling-dates.ipynb)  
     
-* ##[SalishSeaWind-runs-Copy2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaWind-runs-Copy2.ipynb)  
-    
 * ##[SalishSeaLakeJune.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaLakeJune.ipynb)  
     
     **SalishSeaLake June**  
 
-* ##[Untitled.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Untitled.ipynb)  
-    
 * ##[SalishSeaLake.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaLake.ipynb)  
     
     **Salish Sea Lake**  
@@ -73,10 +69,6 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[thalweg-winds-record.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//thalweg-winds-record.ipynb)  
     
-* ##[finding-strong-summer-winds.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//finding-strong-summer-winds.ipynb)  
-    
-* ##[dragon.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//dragon.ipynb)  
-    
 * ##[initial_strat_SalishSeaLake.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//initial_strat_SalishSeaLake.ipynb)  
     
     **Initial Strat Files for SalishSeaLake**  
@@ -112,6 +104,8 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[wind-sandbox.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//wind-sandbox.ipynb)  
     
+* ##[PCA-surface-tracer-cropped-highpass.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//PCA-surface-tracer-cropped-highpass.ipynb)  
+    
 * ##[SalishSeaLakeJan.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaLakeJan.ipynb)  
     
     **SalishSeaLake January**  
@@ -138,12 +132,12 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Showing equation(3.68) for SalishSeaLake as we vary different paramters (eg h, q, L)  
 
+* ##[SalishSeaWind-runs-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaWind-runs-Copy1.ipynb)  
+    
 * ##[Looking-at-one-density.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Looking-at-one-density.ipynb)  
     
     Tracking density 1023.3 through various wind events.   
 
-* ##[salinity-anomalies.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//salinity-anomalies.ipynb)  
-    
 * ##[cross-basin-tilt.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//cross-basin-tilt.ipynb)  
     
     Looking for cross basin tilt along different wind scenerios.  
