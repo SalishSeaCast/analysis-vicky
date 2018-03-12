@@ -92,6 +92,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     A summary of tests done so far for Salish Sea Lake  
 
+* ##[PCA-surface-tracer-highpass-after.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//PCA-surface-tracer-highpass-after.ipynb)  
+    
 * ##[cross-section-tilt.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//cross-section-tilt.ipynb)  
     
     Looking at qualities of tilt and things fom model runs with uniform vwinds (vtau = 0.2) and varying time scales.  
