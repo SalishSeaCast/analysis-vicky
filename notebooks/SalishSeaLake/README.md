@@ -37,6 +37,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Looking at model runs with uniform winds of vtau = 0.2 and varying time scales with both summer and winter stratifications.   
 
+* ##[PCA-surface-tracer-cropped-morehighpass.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//PCA-surface-tracer-cropped-morehighpass.ipynb)  
+    
 * ##[alt-notebook.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//alt-notebook.ipynb)  
     
     Basically a sandbox. Sometimes used to test if Salish is being funny or if my code is just very very slow.   
