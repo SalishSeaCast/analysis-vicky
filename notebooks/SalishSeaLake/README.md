@@ -150,6 +150,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Cross section animation of nowcast. Black line to show 1023.3 as reference.   
 
+* ##[PCA-surface-tracer-bandpass-highpass.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//PCA-surface-tracer-bandpass-highpass.ipynb)  
+    
 * ##[24-48-70-winds.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//24-48-70-winds.ipynb)  
     
 * ##[sbcana-editing.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//sbcana-editing.ipynb)  
