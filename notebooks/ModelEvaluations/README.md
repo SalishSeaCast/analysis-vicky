@@ -64,6 +64,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[SC-ssh-w_corr.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SC-ssh-w_corr.ipynb)  
     
+* ##[SentryShoalNitrate.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SentryShoalNitrate.ipynb)  
+    
 * ##[FerryChlVsNowcastGreen-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/FerryChlVsNowcastGreen-Copy1.ipynb)  
     
 * ##[NANOOS_SanJuan.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/NANOOS_SanJuan.ipynb)  
