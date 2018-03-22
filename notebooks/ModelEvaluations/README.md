@@ -46,6 +46,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Using daily averages  
 
+* ##[DFO-comparison-blue.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/DFO-comparison-blue.ipynb)  
+    
 * ##[SC-ssh-binned.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/SC-ssh-binned.ipynb)  
     
 * ##[FerryChlVsNowcastGreen.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/FerryChlVsNowcastGreen.ipynb)  
