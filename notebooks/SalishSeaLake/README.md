@@ -138,6 +138,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Showing equation(3.68) for SalishSeaLake as we vary different paramters (eg h, q, L)  
 
+* ##[BaynesSoundthalweg-30m.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//BaynesSoundthalweg-30m.ipynb)  
+    
 * ##[SalishSeaWind-runs-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//SalishSeaWind-runs-Copy1.ipynb)  
     
 * ##[Looking-at-one-density.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//Looking-at-one-density.ipynb)  
@@ -153,6 +155,8 @@ Descriptions under the links below are from the first cell of the notebooks
     Cross section animation of nowcast. Black line to show 1023.3 as reference.   
 
 * ##[PCA-surface-tracer-bandpass-highpass.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//PCA-surface-tracer-bandpass-highpass.ipynb)  
+    
+* ##[BaynesSoundthalweg-60m.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//BaynesSoundthalweg-60m.ipynb)  
     
 * ##[24-48-70-winds.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//24-48-70-winds.ipynb)  
     
