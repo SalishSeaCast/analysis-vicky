@@ -54,6 +54,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[CitSciChl2016-hourly.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSciChl2016-hourly.ipynb)  
     
+* ##[PosterFigures.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/PosterFigures.ipynb)  
+    
 * ##[CitSciChl2015.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSciChl2015.ipynb)  
     
 * ##[CitSciNutrients2016-hourly-hindcast.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/ModelEvaluations/CitSciNutrients2016-hourly-hindcast.ipynb)  
