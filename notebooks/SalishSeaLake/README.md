@@ -150,6 +150,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Looking for cross basin tilt along different wind scenerios.  
 
+* ##[QuadraThalweg.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//QuadraThalweg.ipynb)  
+    
 * ##[nowcast-animation.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//nowcast-animation.ipynb)  
     
     Cross section animation of nowcast. Black line to show 1023.3 as reference.   
