@@ -146,6 +146,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Tracking density 1023.3 through various wind events.   
 
+* ##[BigThreeThalweg.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//BigThreeThalweg.ipynb)  
+    
 * ##[cross-basin-tilt.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SalishSeaLake//cross-basin-tilt.ipynb)  
     
     Looking for cross basin tilt along different wind scenerios.  
