@@ -30,6 +30,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[surface-wave-mixing-haloclines-2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-wave-mixing-haloclines-2.ipynb)  
     
+* ##[GridToMap.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/GridToMap.ipynb)  
+    
 * ##[NCO-3monMeans-NowcastGreen-2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monMeans-NowcastGreen-2017.ipynb)  
     
 * ##[surfacewavemixingferry-Copy1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surfacewavemixingferry-Copy1.ipynb)  
