@@ -26,14 +26,12 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[BaynesSoundParticles-October.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//BaynesSoundParticles-October.ipynb)  
     
-* ##[CampbellRiverParticlesMore.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//CampbellRiverParticlesMore.ipynb)  
-    
 * ##[BaynesSoundParticles.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane//BaynesSoundParticles.ipynb)  
     
 
 ##License
 
-These notebooks and files are copyright 2013-2017
+These notebooks and files are copyright 2013-2018
 by the Salish Sea MEOPAR Project Contributors
 and The University of British Columbia.
 
