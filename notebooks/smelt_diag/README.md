@@ -17,12 +17,19 @@ Descriptions under the links below are from the first cell of the notebooks
     **slowdiat**  
     Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
 
+* ##[CSNuts-Elise.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CSNuts-Elise.ipynb)  
+    
+    **Elise's model runs**  
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
+
 * ##[CitizenScienceNutrients-NewRiverSi.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-NewRiverSi.ipynb)  
     
     **New River Si**  
     Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
 
 * ##[FerryChl2017-lon.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/FerryChl2017-lon.ipynb)  
+    
+* ##[DFO-RateAndHalfSat.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/DFO-RateAndHalfSat.ipynb)  
     
 * ##[LimitationsAlongThalweg2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationsAlongThalweg2.ipynb)  
     
@@ -66,6 +73,8 @@ Descriptions under the links below are from the first cell of the notebooks
     Nutrient comparisons with edited dataset using surface instead of 2m for depth. (using newer code)  
 
 * ##[LimitingVariableVideo.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitingVariableVideo.ipynb)  
+    
+* ##[DFO-Elise.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/DFO-Elise.ipynb)  
     
 * ##[LimitationAlongThalweg2015_w_NLim.NO.NH.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationAlongThalweg2015_w_NLim.NO.NH.ipynb)  
     
@@ -119,6 +128,11 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[LimitationsAlongThalweg2016_w_NLim.NO.NH.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/LimitationsAlongThalweg2016_w_NLim.NO.NH.ipynb)  
     
+* ##[CSNuts-RateAndHalfSat-hourly.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CSNuts-RateAndHalfSat-hourly.ipynb)  
+    
+    **RateAndHalfSat - hourly**  
+    Nutrient comparisons with edited dataset using surface instead of 2m for depth. (  
+
 * ##[depth-profile-time-series.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/depth-profile-time-series.ipynb)  
     
 * ##[CitizenScienceNutrients-SiRatio1_5-old.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/smelt_diag/CitizenScienceNutrients-SiRatio1_5-old.ipynb)  
