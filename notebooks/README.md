@@ -84,6 +84,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[NCO-3monDeepMeans-NowcastGreen-2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monDeepMeans-NowcastGreen-2017.ipynb)  
     
+* ##[Untitled1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Untitled1.ipynb)  
+    
 * ##[Accessing-CTD-data.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Accessing-CTD-data.ipynb)  
     
     How to access CTD data: a short guide  
@@ -112,6 +114,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[Build-use-matrix.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Build-use-matrix.ipynb)  
     
 * ##[surfacewavemixingferry-Copy2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surfacewavemixingferry-Copy2.ipynb)  
+    
+* ##[statistics-for-mohid.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/statistics-for-mohid.ipynb)  
     
 * ##[averaged-over-30m.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/averaged-over-30m.ipynb)  
     
@@ -158,6 +162,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[seasonal-averaged-plume.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/seasonal-averaged-plume.ipynb)  
     
+* ##[UBCS3.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/UBCS3.ipynb)  
+    
 * ##[hindcast-averages-sum_grme.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/hindcast-averages-sum_grme.ipynb)  
     
 * ##[surface-mixing-comparisons.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surface-mixing-comparisons.ipynb)  
@@ -175,7 +181,7 @@ Descriptions under the links below are from the first cell of the notebooks
 
 ##License
 
-These notebooks and files are copyright 2013-2018
+These notebooks and files are copyright 2013-2019
 by the Salish Sea MEOPAR Project Contributors
 and The University of British Columbia.
 
