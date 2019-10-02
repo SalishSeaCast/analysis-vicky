@@ -84,8 +84,6 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[NCO-3monDeepMeans-NowcastGreen-2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monDeepMeans-NowcastGreen-2017.ipynb)  
     
-* ##[Untitled1.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Untitled1.ipynb)  
-    
 * ##[Accessing-CTD-data.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Accessing-CTD-data.ipynb)  
     
     How to access CTD data: a short guide  
@@ -115,8 +113,6 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[surfacewavemixingferry-Copy2.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/surfacewavemixingferry-Copy2.ipynb)  
     
-* ##[statistics-for-mohid.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/statistics-for-mohid.ipynb)  
-    
 * ##[averaged-over-30m.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/averaged-over-30m.ipynb)  
     
 * ##[CHECKERBOARD.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/CHECKERBOARD.ipynb)  
@@ -128,6 +124,10 @@ Descriptions under the links below are from the first cell of the notebooks
     **May 3, 2017**  
       
 
+
+* ##[salmon-stats.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/salmon-stats.ipynb)  
+    
+    **salmon stats**  
 
 * ##[Ariane-sandbox.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/Ariane-sandbox.ipynb)  
     
@@ -154,6 +154,10 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[NCO-3monMeans-NowcastGreen-2016.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/NCO-3monMeans-NowcastGreen-2016.ipynb)  
     
+* ##[turn-stats.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/turn-stats.ipynb)  
+    
+    **turn stats**  
+
 * ##[CampbellRiverParticlesMore.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/CampbellRiverParticlesMore.ipynb)  
     
 * ##[swiftsureAGRIF-zoomed-SEA.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/swiftsureAGRIF-zoomed-SEA.ipynb)  
@@ -161,8 +165,6 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[swiftsureAGRIF-zoomed.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/swiftsureAGRIF-zoomed.ipynb)  
     
 * ##[seasonal-averaged-plume.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/seasonal-averaged-plume.ipynb)  
-    
-* ##[UBCS3.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/UBCS3.ipynb)  
     
 * ##[hindcast-averages-sum_grme.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/hindcast-averages-sum_grme.ipynb)  
     
@@ -174,10 +176,16 @@ Descriptions under the links below are from the first cell of the notebooks
     
     Updating old notebook to include hindcast.  
 
+* ##[LatLonGenerator.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/LatLonGenerator.ipynb)  
+    
 * ##[all_years_averages_check.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/all_years_averages_check.ipynb)  
     
 * ##[LimitationAlongThalweg2017.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/LimitationAlongThalweg2017.ipynb)  
     
+* ##[SOG-stats.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/salishsea/analysis-vicky/raw/tip/notebooks/SOG-stats.ipynb)  
+    
+    **SOG stats**  
+
 
 ##License
 
